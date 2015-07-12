@@ -1,0 +1,88 @@
+body{ 
+	margin: 0; 
+	padding: 0;
+	background-color: #EBF5F9;
+} /*add this so the background takes 0 padding and 0 margin!!*/
+.image{
+	text-align: center;
+}
+.image img{
+	width: 35em;
+	height: auto;
+}
+
+.allPictures a img:hover{
+	transform: scale(1.1);
+	box-shadow: 0 15px 10px -10px rgba(31, 31, 31, 0.5);
+}
+.allPictures a img{
+		transition: all .3s ease;
+		width: 190px;
+		height: 175px;
+		box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(128, 128, 128, 0.1) inset;
+		margin: 3px;
+}
+.top-container{
+	width: 100%; 
+	display: table;
+	padding-bottom: auto;
+}
+.navigation {
+	text-align: center;
+	font-family: "AtlasTypewriterRegular", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;
+	font-size: 2em;
+}
+.navigation a{
+  color: #429ec1;
+  text-decoration: none;
+  transition: color .45s ease;
+   padding:0 20px;
+}
+.navigation a:hover{
+	color: #8B969A;
+	transition: color .45s ease;
+}
+.allPictures{
+ margin-left: 150px;
+ width: 90%;
+}
+.middle-wrapper{
+  overflow: hidden;
+  color: black; 
+  font-family: Gilda Display, serif;
+  padding: .5rem;
+  padding-right: 2rem;
+  margin: 0 auto;
+}
+.middle-wrapper img{
+	float: left;
+  width: 30%;
+  height: auto;
+  padding-right: 50px;
+}
+h1 { 
+	margin-bottom: .5rem; 
+	margin-top: 2rem; 
+}
+p , ul li, ol li, h4{ 
+  font-family: Oxygen, sans-serif;
+  line-height: 1.5;
+  font-size: 1.1rem;
+  margin: 25px;
+}
+h2 a{
+	color: #0079d3;
+	text-decoration: none;
+}
+h2 a:hover{
+	text-decoration: underline;
+}
+hr{
+   border: 0;
+   height: 1px;
+   background: #333;
+   background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+   background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc);
+   background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
+   background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
+}
