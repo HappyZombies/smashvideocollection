@@ -11,7 +11,8 @@ body{
 	height: auto;
 }
 .allPictures{
- margin-left: 130px;
+ margin: 0 auto;
+ text-align: center;
  width: 90%;
 }
 .allPictures a img:hover{
@@ -45,7 +46,6 @@ body{
 	color: #8B969A;
 	transition: color .45s ease;
 }
-
 .middle-wrapper{
   overflow: hidden;
   color: black; 
