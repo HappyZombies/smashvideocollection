@@ -10,7 +10,10 @@ body{
 	width: 35em;
 	height: auto;
 }
-
+.allPictures{
+ margin-left: 130px;
+ width: 90%;
+}
 .allPictures a img:hover{
 	transform: scale(1.1);
 	box-shadow: 0 15px 10px -10px rgba(31, 31, 31, 0.5);
@@ -42,10 +45,7 @@ body{
 	color: #8B969A;
 	transition: color .45s ease;
 }
-.allPictures{
- margin-left: 130px;
- width: 90%;
-}
+
 .middle-wrapper{
   overflow: hidden;
   color: black; 
