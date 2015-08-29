@@ -72,11 +72,11 @@ p , ul li, ol li, h4{
   font-size: 1.1rem;
   margin: 25px;
 }
-h2 a{
+h4 a{
 	color: #0079d3;
 	text-decoration: none;
 }
-h2 a:hover{
+h4 a:hover{
 	text-decoration: underline;
 }
 hr{
@@ -87,4 +87,7 @@ hr{
    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc);
    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+.links{
+	float:left;
 }
