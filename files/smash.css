@@ -98,10 +98,17 @@ hr{
 ul{
 float:left;
 list-style-type: none;
-
 }
-.containers{
-	margin: 0 auto;
+ul h2{
+	text-align: center;
+}
+
+ul li a img{
+	width: 65px;
+	height: 65px;
+	float:left;
+ text-align: center;
+
 }
 
 
