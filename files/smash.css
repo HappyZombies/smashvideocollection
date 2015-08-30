@@ -98,6 +98,7 @@ hr{
 ul{
 float:left;
 list-style-type: none;
+padding-bottom: 25px;
 }
 ul h2{
 	text-align: center;
