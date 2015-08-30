@@ -2,6 +2,7 @@ body{
 	margin: 0; 
 	padding: 0;
 	background-color: #EBF5F9;
+	font-family: sans-serif;
 }
 .image{
 	text-align: center;
@@ -14,7 +15,6 @@ body{
  margin: 0 auto;
  text-align: center;
  width: 90%;
- padding-top: 50px;
  padding-bottom: 50px;
 }
 .allPictures a img:hover{
@@ -34,44 +34,51 @@ body{
 	padding-bottom: auto;
 }
 .navigation {
-	text-align: center;
-	font-family: "AtlasTypewriterRegular", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;
-	font-size: 1.5em;
+	text-align:center;
+	font-size: 1.8em;	
+	padding-bottom: 20px;
 }
 .navigation a{
   color: #429ec1;
   text-decoration: none;
   transition: color .45s ease;
-   padding:0 20px;
+}
+
+.about{
+	float:right;
+	font-size: 1.5em;
+	padding-right: 25px;
+	padding-top: 10px;
+}
+
+.about a{
+  color: #429ec1;
+  text-decoration: none;
+  transition: color .45s ease;
+  
 }
 .navigation a:hover{
 	color: #8B969A;
 	transition: color .45s ease;
 }
 .middle-wrapper{
-  overflow: hidden;
   color: black; 
-  font-family: Gilda Display, serif;
   padding: .5rem;
-  padding-right: 2rem;
   margin: 0 auto;
 }
-.middle-wrapper img{
-	float: left;
-  width: 30%;
-  height: auto;
-  padding-right: 50px;
+
+
+.middle-wrapper img, h1{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align:center;
 }
 h1 { 
 	margin-bottom: .5rem; 
 	margin-top: 2rem; 
 }
-p , ul li, ol li, h4{ 
-  font-family: Oxygen, sans-serif;
-  line-height: 1.5;
-  font-size: 1.1rem;
-  margin: 25px;
-}
+
 h4 a{
 	color: #0079d3;
 	text-decoration: none;
@@ -88,6 +95,13 @@ hr{
    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
 }
-.links{
-	float:left;
+ul{
+float:left;
+list-style-type: none;
+
 }
+.containers{
+	margin: 0 auto;
+}
+
+
