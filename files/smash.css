@@ -95,23 +95,37 @@ hr{
    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
 }
+
+#content{
+	 margin: 0 auto;
+    width: 70%;
+	 
+}
+#content .column{
+	float: left;
+    margin: 0 auto;
+    width: 33%;
+	overflow:auto;
+}
 ul{
-float:left;
-list-style-type: none;
-padding-bottom: 25px;
-padding-right: 50px;
-padding-left: 50px;
+  list-style-type: none;
 }
 ul h2{
-	text-align: center;
+	font-size: 1.2em;
+	 text-align: center;
 }
 
-ul li a img{
+
+
+ol{
+list-style-type: none;
+float:left;
+text-align: center;
+}
+ol li a img{
 	width: 60px;
 	height: 60px;
 	float:left;
- text-align: center;
-
 }
 
 
