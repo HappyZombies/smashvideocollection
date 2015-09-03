@@ -4,7 +4,7 @@
 
 ####[Link to website](http://happyzombies.github.io/smashvideocollection/)
 
-######Website is still in development, so expect typos and such :) Please understand.
+######Website is still in development, so expect typos, and areas under contruction. Please understand.
 
 ######This website was originally made to contain character guides from the subreddit /r/CrazyHand. I have decided to change that. The website is now focusing on collecting videos about each character.
 
