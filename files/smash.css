@@ -142,6 +142,10 @@ ol li a img{
 	width: 60px;
 	height: 60px;
 	float:left;
+	transition: all .2s ease;
+}
+ol li a img:hover{
+	opacity: .6;
 }
 
 /*Begin submit video forms*/
