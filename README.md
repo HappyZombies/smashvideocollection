@@ -8,4 +8,4 @@
 
 ######This website was originally made to contain character guides from the subreddit /r/CrazyHand. I have decided to change that. The website is now focusing on collecting videos about each character.
 
-######If you see a video that you would like to add, please add send them [here](http://happyzombies.github.io/smashvideocollection/files/submit.html)
+######If you see a video that you would like to add, please send us a message [here](http://happyzombies.github.io/smashvideocollection/files/submit.html)
