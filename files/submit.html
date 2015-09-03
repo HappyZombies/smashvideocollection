@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Submit Videos</title>
+		<meta charset="utf-8">
+		<link rel= "stylesheet" type= "text/css" href = "smash.css"/>
+		<link rel="icon" type="image/x-icon" href= "../images/crazyHand.png"/>
+	</head>
+	<body>
+	<main id = "title">
+	<div class= "about">
+			<a href = "about.html">About</a>
+	</div>
+	<div class= "submit">
+			<a href = "submit.html">Submit Video</a>
+	</div>
+	<div class = "top-container">
+	<div class = "image">
+		<img src = "../images/logo.gif">
+	</div>
+	<div class= "navigation">
+		<a href = "../index.html">Home</a>
+	</div>
+	</div>
+	<div class = "middle-wrapper">
+	<h1>Submit Video</h1>
+
+	<h3>Saw a video that you think should be here? Go ahead and send it to us! Our team will carefully evaluate the video and determine if it belongs here! Be sure to tell us why you think the video should be shown here.</h3>
+	<h3>Thank you for contributing!</h3>
+	<div class = "theForm">
+	<div id="form-main">
+	<div id="form-div">
+    <form class="form" id="form1">
+      
+      <p class="name">
+        <input name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Name" id="name" required = "required"/>
+      </p>
+      
+      <p class="email">
+        <input name="email" type="email" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" required = "required" />
+      </p>
+	  
+	  
+      
+      <p class="text">
+        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Link and Explanation" required = "required"></textarea>
+      </p>
+      
+      
+      <div id="submit">
+        <input type="submit" value="SEND" id="button-blue"/>
+        <div class="ease"></div>
+      </div>
+    </form>
+	</div>
+	</div>
+	</div>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67146105-1', 'auto');
+  ga('send', 'pageview');
+
+	</script>
+	</main>
+	</body>
+</html>
