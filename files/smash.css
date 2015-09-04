@@ -4,6 +4,14 @@ body{
 	background-color: #EBF5F9;
 	font-family: sans-serif;
 }
+
+.indexfooter{
+	background-color: rgba(117,187,213,0.4);
+	padding: 15px;
+	color: #276076;
+	text-align:center;
+	 word-spacing: 50px;
+}
 .image{
 	text-align: center;
 }
@@ -38,7 +46,7 @@ body{
 	font-size: 1.8em;	
 	padding-bottom: 20px;
 }
-.navigation a{
+.navigation a, .indexfooter a{
   color: #429ec1;
   text-decoration: none;
   transition: color .45s ease;
@@ -56,18 +64,13 @@ body{
 	padding-left: 25px;
 	padding-top: 10px;
 }
-.submit a{
+.submit a, .about a{
 color: #429ec1;
   text-decoration: none;
   transition: color .45s ease;
 }
 
-.about a{
-  color: #429ec1;
-  text-decoration: none;
-  transition: color .45s ease;
-  
-}
+
 .navigation a:hover{
 	color: #8B969A;
 	transition: color .45s ease;
