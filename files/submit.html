@@ -34,7 +34,7 @@
 	<div class = "middle-wrapper">
 	<h1>Submit Video</h1>
 
-	<h3>Saw a video that you think should be here? Go ahead and send it to us! Our team will carefully evaluate the video and determine if it belongs here! Be sure to tell us why you think the video should be shown here.</h3>
+	<h3>Saw a video that you think should be here? Go ahead and send it to us! Our team will carefully evaluate the video and determine if it belongs here! Be sure to tell us why you think the video should be shown here. Be sure to look over our <a href = "guideline.html">guideline</a> on how we determine what videos get displayed here.</h3>
 	<h3>Thank you for contributing!</h3>
 	<div class = "theForm">
 	<div id="form-main">
@@ -50,10 +50,73 @@
         <input name="email" type="email" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" required = "required" />
       </p>
 	  
+	   <p class="name">
+        <input name="url" type="url" class="validate[required,custom[url]] feedback-input" id="url" placeholder="Video Link" required = "required" />
+      </p>
+	  
+	   <p class="name">
+        <select name="pick" class="validate[required,custom[url]] feedback-input" id="pick" required = "required" placeholder = "Which character?" />
+			<option selected = "selected">Which Character?</option>
+			<option value="Mario">Mario</option>
+			<option value="Luigi">Luigi</option>
+			<option value="Peach">Peach</option>
+			<option value="Bowser">Bowser</option>
+			<option value="yoshi">Yoshi</option>
+			<option value="Rosalina">Rosalina & Luma</option>
+			<option value="BowserJr">Bowser Jr.</option>
+			<option value="wario">Wario</option>
+			<option value="g&w">Game and Watch</option>
+			<option value="DK">Donkey Kong</option>
+			<option value="Diddy">Diddy Kong</option>
+			<option value="link">Link</option>
+			<option value="Zelda">Zelda</option>
+			<option value="sheik">Sheik</option>
+			<option value="Ganon">Ganondorf</option>
+			<option value="toonLink">Toon Link</option>
+			<option value="samus">Samus</option>
+			<option value="zss">Zero Suit Samus</option>
+			<option value="Pit">Pit</option>
+			<option value="palutena">Palutena</option>
+			<option value="marth">Marth</option>
+			<option value="ike">Ike</option>
+			<option value="robin">Robin</option>
+			<option value="kirby">Kirby</option>
+			<option value="kingdedede">King Dedede</option>
+			<option value="metaknight">Meta Knight</option>
+			<option value="lilmac">Little Mac</option>
+			<option value="falco">Falcon</option>
+			<option value="fox">Fox</option>
+			<option value="Pikachu">Pikachu</option>
+			<option value="charizard">Charizard</option>
+			<option value="lucario">Lucario</option>
+			<option value="jigg">Jigglypuff</option>
+			<option value="greninja">Greninja</option>
+			<option value="duckhunt">Duck Hunt</option>
+			<option value="Rob">R.O.B</option>
+			<option value="captainFalcon">Captain Falcon</option>
+			<option value="ness">Ness</option>
+			<option value="villager">Villager</option>
+			<option value="Olimar">Olimar</option>
+			<option value="wft">Wii Fit Trainer</option>
+			<option value="drMario">Dr. Mario</option>
+			<option value="darkPit">Dark Pit</option>
+			<option value="lucina">Lucina</option>
+			<option value="shulk">Shulk</option>
+			<option value="pacman">Pac-Man</option>
+			<option value="megaman">Megaman</option>
+			<option value="sonic">Sonic</option>
+			<option value="mewtwo">Mewtwo</option>
+			<option value="lucas">Lucas</option>
+			<option value="roy">Roy</option>
+			<option value="ryu">Ryu</option>
+		</select>
+      </p>
+	  
+	  
 	  
       
       <p class="text">
-        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Link and Explanation" required = "required"></textarea>
+        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Explanation(Optional)" ></textarea>
       </p>
       
       
