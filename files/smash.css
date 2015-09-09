@@ -1,6 +1,6 @@
 body{ 
 	margin: 0; 
-	padding-bottom:15px;
+	padding-bottom:50px;
 	
 	background-color: #EBF5F9;
 	font-family: sans-serif;
@@ -8,7 +8,7 @@ body{
 
 .indexfooter{
 	background-color: black;
-	height:15px;
+	height:50px;
 	position:absolute;
 	width:100%;
 	color: #276076;
