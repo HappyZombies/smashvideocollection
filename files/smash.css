@@ -14,9 +14,9 @@ body{
 	background-color: black;
 	height:100px;
 	position:absolute;
-	width:100%;
+	width:inherit;
 	left:0;
-	bottom:0;
+	bottom:3;
 	color: #276076;
 	text-align:center;
 	 word-spacing: 50px;
