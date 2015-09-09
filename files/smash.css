@@ -1,7 +1,10 @@
+#wrapper{
+	min-height:100;
+	position:relative;
+}
 body{ 
 	margin: 0; 
-	padding:0px;
-	
+	padding:0;
 	background-color: #EBF5F9;
 	font-family: sans-serif;
 }
@@ -11,6 +14,8 @@ body{
 	height:100px;
 	position:absolute;
 	width:100%;
+	left:0;
+	bottom:0;
 	color: #276076;
 	text-align:center;
 	 word-spacing: 50px;
