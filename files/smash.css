@@ -1,10 +1,14 @@
+html{
+	position:relative;
+	min-height:100%;
+}
 #wrapper{
 	min-height:100%;
 	position:relative;
 }
 body{ 
 	margin: 0; 
-	padding:0;
+	padding-bottom:25px;
 	height:100%;
 	background-color: #EBF5F9;
 	font-family: sans-serif;
