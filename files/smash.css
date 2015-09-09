@@ -1,6 +1,6 @@
 body{ 
 	margin: 0; 
-	padding-bottom:100px;
+	padding:15px;
 	
 	background-color: #EBF5F9;
 	font-family: sans-serif;
@@ -26,8 +26,8 @@ body{
 .allPictures{
  margin: 0 auto;
  text-align: center;
- width: 90%;
- padding-bottom: 50px;
+ width: 100%;
+ padding-bottom: 100px;
 }
 .allPictures a img:hover{
 	transform: scale(1.1);
