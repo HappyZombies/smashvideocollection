@@ -1,17 +1,20 @@
 body{ 
 	margin: 0; 
-	padding: 0;
+	padding-bottom:15px;
+	
 	background-color: #EBF5F9;
 	font-family: sans-serif;
 }
 
 .indexfooter{
 	background-color: black;
-	padding: 15px;
+	height:15px;
+	position:absolute;
+	width:100%;
 	color: #276076;
 	text-align:center;
 	 word-spacing: 50px;
-	 position:absolute;
+	 
 }
 .image{
 	text-align: center;
