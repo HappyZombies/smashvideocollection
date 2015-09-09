@@ -7,7 +7,7 @@ html{
 	position:relative;
 }
 body{ 
-	margin: 0; 
+	margin: 0 0 100px; 
 	padding-bottom:25px;
 	height:100%;
 	background-color: #EBF5F9;
