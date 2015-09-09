@@ -6,9 +6,9 @@ body{
 }
 
 .indexfooter{
-	background-color: #75BAD5;
+	background-color: black;
 	padding: 15px;
-	color: black;
+	color: white;
 	text-align:center;
 	 word-spacing: 50px;
 }
