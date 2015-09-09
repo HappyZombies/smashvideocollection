@@ -1,16 +1,30 @@
+html{
+	position:relative;
+	min-height:100%;
+}
+#wrapper{
+	min-height:100%;
+	position:relative;
+}
 body{ 
-	margin: 0; 
-	padding: 0;
+	margin: 0 0 100px; 
+	padding-bottom:25px;
+	height:100%;
 	background-color: #EBF5F9;
 	font-family: sans-serif;
 }
 
 .indexfooter{
-	background-color: rgba(117,187,213,0.4);
-	padding: 15px;
+	background-color: black;
+	height:100px;
+	position:absolute;
+	width:100%;
+	left:0;
+	bottom:3;
 	color: #276076;
 	text-align:center;
 	 word-spacing: 50px;
+	 
 }
 .image{
 	text-align: center;
@@ -23,7 +37,7 @@ body{
  margin: 0 auto;
  text-align: center;
  width: 90%;
- padding-bottom: 50px;
+ padding-bottom: 100px;
 }
 .allPictures a img:hover{
 	transform: scale(1.1);
