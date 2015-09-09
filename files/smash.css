@@ -18,7 +18,7 @@ body{
 	background-color: black;
 	height:100px;
 	position:absolute;
-	width:inherit;
+	width:100%;
 	left:0;
 	bottom:3;
 	color: #276076;
