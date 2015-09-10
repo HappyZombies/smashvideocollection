@@ -281,3 +281,70 @@ input:focus, textarea:focus {
 }
 /*Thank you http://codepen.io/rexkirby/pen/Fdnlz for the code :) */
 
+/*Begin icon images*/
+#mario{
+	background: url('../images/flair.png') no-repeat 0 -713px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#pikachu{
+	background: url('../images/flair.png') no-repeat 0 -989px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#sheik{
+background: url('../images/flair.png') no-repeat 0 -1173px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#fox{
+background: url('../images/flair.png') no-repeat  0 -299px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#ness{
+background: url('../images/flair.png') no-repeat  0 -874px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#zss{
+background: url('../images/flair.png') no-repeat  0 -1495px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#captainfalcon{
+background: url('../images/flair.png') no-repeat  0 -92px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#diddy{
+background: url('../images/flair.png') no-repeat  0 -184px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#darkpit{
+background: url('../images/flair.png') no-repeat  0 -138px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#pit{
+background: url('../images/flair.png') no-repeat  0 -1012px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#ganon{
+background: url('../images/flair.png') no-repeat  0 -345px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
