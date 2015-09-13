@@ -12,6 +12,17 @@ body{
 	text-align:center;
 	 word-spacing: 50px;
 }
+.announcment{
+	text-align: center;
+	background-color: rgba(23,37,42,0.8);
+	color: white;
+	padding: 10px;
+	
+}
+.announcment a{
+color:  #EBF5F9;
+
+}
 .image{
 	text-align: center;
 }
