@@ -2,3 +2,5 @@ markdown: redcarpet
 baseurl: /smashvideocollection
 exclude: ['README.md', 'update.sh']
 permalink: pretty
+gems:
+  - jekyll-redirect-from
