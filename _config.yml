@@ -1,4 +1,4 @@
 markdown: redcarpet
-baseurl: /testSite
+baseurl: /smashvideocollection
 exclude: ['README.md', 'update.sh']
 permalink: pretty
