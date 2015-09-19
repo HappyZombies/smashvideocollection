@@ -1,112 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<title>Smash Character Video Collection</title>
-		<meta charset="utf-8">
-		<meta name="author" content="HappyZombies/DEEJAY">
-		<link rel= "stylesheet" type= "text/css" href = "files/smash.css"/>
-		<link rel= "description" content="A collection of the 'best' videos out there for each character for Super Smash Bros. 4"/>
-		<link rel= "keywords" content="smashbros,super smash,supersmashbros,bros,videos,collection,video,database"/>
-		<link rel="icon" type="image/x-icon" href= "images/crazyHand.png"/>
-		<link rel="apple-touch-icon" sizes="144x144" href="images/crazyHand/ios/apple-touch-icon-144x144-precomposed.png" />
-		<link rel="apple-touch-icon" sizes="114x114" href="images/crazyHand/ios/apple-touch-icon-114x114-precomposed.png" />
-		<link rel="apple-touch-icon" sizes="72x72" href="images/crazyHand/ios/apple-touch-icon-72x72-precomposed.png" />
-		<link rel="apple-touch-icon" href="images/crazyHand/ios/apple-touch-icon-precomposed.png"/>
-		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+---
+layout: default
+character_name: "Home"
+---
+<!--
+	When iterating over a hash file,
+	hash[0] = key
+ 	hash[1] = data, which in this case is another hash file
+-->
 
-			ga('create', 'UA-67146105-1', 'auto');
-			ga('send', 'pageview');
-		</script>
-	</head>
-	<body>
-	<main>
-	<div class = "announcment">
-	<h2>We are working on a major update to the site! But we'd like your opinion on a certain matter. <a href = "http://strawpoll.me/5481954">Please fill the survey!</a></h3>
-	</div>
-	<div class= "about">
-			<a href = "files/about.html">About</a>
-	</div>
-	<div class= "submit">
-			<a href = "files/submit.html">Submit Video</a>
-	</div>
-	<div class = "top-container">
-	<div class = "image">
-		<img src = "images/logo.gif">
-		<p>Click on a character to learn about them!</p>
-	</div>
-	
-	</div>
-	<!--Don't re-event the wheel-->
-	<div class = "allPictures">
-			<a href= "files/mario.html"><img src = "sprites/mario.png" alt = "mario"></a>
-			<a href = "files/luigi.html"><img src = "sprites/luigi.png" alt = "luigi"></a>
-			<a href = "files/peach.html"><img src = "sprites/peach.png" alt = "peach"></a>
-			<a href = "files/bowser.html"><img src = "sprites/bowser.png"alt = "bowser"></a>
-			<a href = "files/yoshi.html"><img src = "sprites/yoshi.png"alt = "yoshi"></a>
-			<a href= "files/rosalina.html"><img src = "sprites/rosalina.png" alt = "rosalina and Luma"></a>
-			<a href = "files/bowserJR.html"><img src = "sprites/bowserJr.png" alt = "bowser Jr"></a>
-			<a href = "files/wario.html"><img src = "sprites/wario.png" alt = "wario"></a>
-			<a href = "files/GandW.html"><img src = "sprites/GandW.png" alt = "Mr. Game and Watch"></a>
-			<a href = "files/DK.html"><img src = "sprites/DK.png" alt = "donkey Kong"></a>
-			<a href = "files/diddy.html"><img src = "sprites/diddy.png" alt = "diddy kong"></a>
-			<a href = "files/link.html"><img src = "sprites/link.png" alt = "link"></a>
-			<a href = "files/zelda.html"><img src = "sprites/zelda.png"alt = "zelda"></a>
-			<a href = "files/sheik.html"><img src = "sprites/shiek.png" alt = "sheik"></a>
-			<a href = "files/ganon.html"><img src = "sprites/ganon2.png"alt = "ganon"></a>
-			<a href = "files/toonLink.html"><img src = "sprites/toonLink.png"alt = "toonLink"></a>
-			<a href = "files/samus.html"><img src = "sprites/samus.png"alt = "samus"></a>
-			<a href = "files/zss.html"><img src = "sprites/zero.png"alt = "zero suit samus"></a>
-			<a href = "files/pit.html"><img src = "sprites/pit.png"alt = "pit"></a>
-			<a href = "files/palutena.html"><img src = "sprites/palutena.png"alt = "palutena"></a>
-			<a href = "files/marth.html"><img src = "sprites/marth.png"alt = "marth"></a>
-			<a href= "files/ike.html"><img src = "sprites/ike.png"alt = "ike"></a>
-			<a href = "files/robin.html"><img src = "sprites/robin.png"alt = "robin"></a>
-			<a href = "files/kirby.html"><img src = "sprites/kirby.png"alt = "kirby"></a>
-			<a href = "files/king3D.html"><img src = "sprites/kingDDD.png"alt = "king dedede"></a>
-			<a href = "files/meta.html"><img src = "sprites/meta.png" alt = "meta knight"></a>
-			<a href = "files/lilmac.html"><img src = "sprites/mac.png" alt = "little mac"></a>
-			<a href = "files/falco.html"><img src = "sprites/falco.png"alt = "falco"></a>
-			<a href= "files/fox.html"><img src = "sprites/fox.png" alt = "fox"></a>
-			<a href = "files/pikachu.html"><img src = "sprites/pikachu.png"alt = "pikachu"></a>
-			<a href = "files/charizard.html"><img src = "sprites/charizard.png"alt = "charizard"></a>
-			<a href = "files/lucario.html"><img src = "sprites/lucario.png"alt = "lucario"></a>
-			<a href = "files/jigglypuff.html"><img src = "sprites/jiggly.png"alt = "jigglypuff"></a>
-			<a href = "files/greninja.html"><img src = "sprites/greninja.png"alt = "greninja"></a>
-			<a href = "files/duckhunt.html"><img src = "sprites/duckHunt.png"alt = "duck Hunt"></a>
-			<a href = "files/rob.html"><img src = "sprites/rob.png"alt = "rob"></a>
-			<a href = "files/captainFalcon.html"><img src = "sprites/showMeYourMoves.png"alt = "captain falcon"></a>
-			<a href = "files/ness.html"><img src = "sprites/ness.png" alt = "ness"></a>
-			<a href = "files/villager.html"><img src = "sprites/villager.png"alt = "villager"></a>
-			<a href = "files/olimar.html"><img src = "sprites/olimar.png"alt = "Olimar"></a>
-			<a href = "files/wft.html"><img src = "sprites/wft.png"alt = "wii fit trainer"></a>
-			<a href = "files/drMario.html"><img src = "sprites/drMario.png"alt = "dr. mario"></a>
-			<a href= "files/darkPit.html"><img src = "sprites/darkpit2.png"alt = "dark pit"></a>
-			<a href = "files/lucina.html"><img src = "sprites/lucina.png"alt = "lucina"></a>
-			<a href = "files/shulk.html"><img src = "sprites/shulk.png"alt = "shulk"></a>
-			<a href = "files/pacman.html"><img src = "sprites/pacman.png" alt = "pacman"></a>
-			<a href = "files/megaman.html"><img src = "sprites/megaman.png"alt = "megaman"></a>
-			<a href = "files/sonic.html"><img src = "sprites/sonic.png"alt = "sonic"></a>
-			<a href = "files/mewtwo.html"><img src = "sprites/mewtwo.png"alt = "mewtwo"></a>
-			<a href = "files/lucas.html"><img src = "sprites/lucas.png"alt = "lucas"></a>
-			<a href = "files/roy.html"><img src = "sprites/roy.png"alt = "roy"></a>
-			<a href = "files/ryu.html"><img src = "sprites/ryu.png" alt = "ryu"></a>
-			<a href = "files/mii.html"><img src = "sprites/mii.png" alt = "mii"></a>
-			<a href = "files/tech.html"><img src = "sprites/gamecube.png" alt = "gamaecube"></a>
-	</div>
-	<footer class="indexfooter">
-		<a href ="https://twitter.com/theDEEJAY69">Twitter</a> 
-		<a href = "https://github.com/HappyZombies">Github</a>
-		<a href = "files/bug.html">Bug_Reporting</a> 
-		<a href = "https://www.reddit.com/r/smashbros/">/r/smashbros</a>
-		<a href = "http://kuroganehammer.com/">Kuroganehammer</a>
-
-	
-	</footer>
-	</main>
-	</body>
-	
-</html>
+<div class="allPictures">
+	{% for character in site.data.characters %}
+		<a href="{{site.baseurl}}/{{character[0] | downcase}}/"><img src="sprites/{{character[0] | downcase}}.png" alt ="{{character[0]}}"></a>
+	{% endfor %}
+</div>

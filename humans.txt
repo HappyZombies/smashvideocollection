@@ -1,0 +1,21 @@
+/* TEAM */
+	Creator: Daniel
+  Github: HappyZombies
+	Twitter: @theDEEJAY69
+	From: Florida
+
+	Contributer: Aaron Delaney
+  Github: devoxel
+	Twitter: @devoxel
+	From: Dublin, Ireland
+
+/* MADE POSSIBLE WITH */
+  Jekyll:
+    Github Repo: https://github.com/jekyll/jekyll
+    By: Tom Preston-Werner, Nick Quaranto, Parker Moore, and more!
+  Github:
+    BY: Tom Preston-Werner, Chris Wanstrath, PJ Hyett and more!
+
+/* SITE */
+	Doctype: HTML5
+	IDE: Atom, Notepad++, Sublime Text 2, Photoshop

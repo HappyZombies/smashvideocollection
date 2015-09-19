@@ -1,0 +1,332 @@
+
+/*Begin icon images*/
+#mario{
+	background: url('../images/flair.png') no-repeat 0 -713px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#pikachu{
+	background: url('../images/flair.png') no-repeat 0 -989px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#sheik{
+background: url('../images/flair.png') no-repeat 0 -1173px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#fox{
+background: url('../images/flair.png') no-repeat  0 -299px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#ness{
+background: url('../images/flair.png') no-repeat  0 -874px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#zss{
+background: url('../images/flair.png') no-repeat  0 -1495px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#captainfalcon{
+background: url('../images/flair.png') no-repeat  0 -92px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#diddy{
+background: url('../images/flair.png') no-repeat  0 -184px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#darkpit{
+background: url('../images/flair.png') no-repeat  0 -138px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#pit{
+background: url('../images/flair.png') no-repeat  0 -1012px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#ganon{
+background: url('../images/flair.png') no-repeat  0 -345px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#alph{
+background: url('../images/flair.png') no-repeat  0 0px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#bowser{
+background: url('../images/flair.png') no-repeat  0 -23px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#bowserjr{
+background: url('../images/flair.png') no-repeat  0 -46px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#mii{
+background: url('../images/flair.png') no-repeat  0 -69px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#charizard{
+background: url('../images/flair.png') no-repeat  0 -115px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#kingdedede{
+background: url('../images/flair.png') no-repeat  0 -161px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#dk{
+background: url('../images/flair.png') no-repeat  0 -207px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#drmario{
+background: url('../images/flair.png') no-repeat  0 -230px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#duckhunt{
+background: url('../images/flair.png') no-repeat  0 -253px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#falco{
+background: url('../images/flair.png') no-repeat  0 -276px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#mrgameandwatch{
+background: url('../images/flair.png') no-repeat  0 -322px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#ganon{
+background: url('../images/flair.png') no-repeat  0 -345px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#greninja{
+background: url('../images/flair.png') no-repeat  0 -368px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#ike{
+background: url('../images/flair.png') no-repeat  0 -437px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#jigglypuff{
+background: url('../images/flair.png') no-repeat  0 -460px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#kirby{
+background: url('../images/flair.png') no-repeat  0 -483px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#link{
+background: url('../images/flair.png') no-repeat  0 -552px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#lilmac{
+background: url('../images/flair.png') no-repeat  0 -575px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#lucario{
+background: url('../images/flair.png') no-repeat  0 -621px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#lucina{
+background: url('../images/flair.png') no-repeat  0 -644px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#luigi{
+background: url('../images/flair.png') no-repeat  0 -690px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#marth{
+background: url('../images/flair.png') no-repeat  0 -736px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#megaman{
+background: url('../images/flair.png') no-repeat  0 -759px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#meta{
+background: url('../images/flair.png') no-repeat  0 -782px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#mewtwo{
+background: url('../images/flair.png') no-repeat  0 -1562px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#lucas{
+background: url('../images/flair.png') no-repeat  0 -1585px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#olimar{
+background: url('../images/flair.png') no-repeat  0 -897px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#pacman{
+background: url('../images/flair.png') no-repeat  0 -920px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#palutena{
+background: url('../images/flair.png') no-repeat  0 -943px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#peach{
+background: url('../images/flair.png') no-repeat  0 -966px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#rob{
+background: url('../images/flair.png') no-repeat  0 -1035px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#robin{
+background: url('../images/flair.png') no-repeat  0 -1081px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#rosalina{
+background: url('../images/flair.png') no-repeat  0 -1104px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#samus{
+background: url('../images/flair.png') no-repeat  0 -1150px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#roy{
+background: url('../images/flair.png') no-repeat  0 -1521px;
+	display: inline-block;
+	width: 20px;
+	height: 18px;
+}
+#ryu{
+background: url('../images/flair.png') no-repeat  0 -1538px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#shulk{
+background: url('../images/flair.png') no-repeat  0 -1196px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#sonic{
+background: url('../images/flair.png') no-repeat  0 -1219px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#toonlink{
+background: url('../images/flair.png') no-repeat  0 -1265px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#villager{
+background: url('../images/flair.png') no-repeat  0 -1311px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#wario{
+background: url('../images/flair.png') no-repeat  0 -1357px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#wft{
+background: url('../images/flair.png') no-repeat  0 -1403px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#yoshi{
+background: url('../images/flair.png') no-repeat  0 -1449px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+#zelda{
+background: url('../images/flair.png') no-repeat  0 -1449px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}

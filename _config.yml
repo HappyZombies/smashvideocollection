@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /testSite
+exclude: ['README.md', 'update.sh']
+permalink: pretty

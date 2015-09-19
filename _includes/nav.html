@@ -1,0 +1,15 @@
+	<ul class = "nav">
+			<li><a  id = "{% if page.character_name == 'Submit'%}current{% endif %}" href= "{{site.baseurl}}/submit/" >Submit Video</a></li>
+			<li><a id = "{% if page.character_name == 'Vote'%}current{% endif %}"href = "{{site.baseurl}}/vote/">Vote</a></li>
+			<li><a id = "{% if page.character_name == 'Blog'%}current{% endif %}" href= "{{site.baseurl}}/blog/">Blog</a></li>
+			<li><a id = "{% if page.character_name == 'About'%}current{% endif %}" href= "{{site.baseurl}}/about/">About</a></li>
+			
+	</ul>
+	<div class = "top-container">
+	<div class = "image">
+		<a href="{{site.baseurl}}/">
+			<img src = "{{site.baseurl}}/images/logo.png">
+		</a>
+	</div>
+</div>
+

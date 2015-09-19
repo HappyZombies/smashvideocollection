@@ -1,0 +1,1815 @@
+Bowser:
+  color: ffc448
+  name: Bowser
+  videos:
+    Guides:
+    - opponent: ''
+      title: Bowser Guide and Tutorial!
+      url: https://www.youtube.com/watch?v=U1Sp5isSC3s
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    - opponent: ''
+      title: Bowser Montage
+      url: https://www.youtube.com/watch?v=KA-f3h5hwvQ
+    Tournaments:
+    - opponent: ganon
+      title: Bloodynite vs Troof
+      url: https://www.youtube.com/watch?v=TbeliMBiJEE
+    - opponent: ryu
+      title: Blink vs CalmAnimal
+      url: https://www.youtube.com/watch?v=LchmlxRc2RU
+    - opponent: diddy
+      title: MVD cs Boss
+      url: https://www.youtube.com/watch?v=hgj86EKPb5s
+    - opponent: pit
+      title: Kappamaki vs KENT
+      url: https://www.youtube.com/watch?v=vzjMokdU500
+    - opponent: yoshi
+      title: Umiushi vs KENT
+      url: https://www.youtube.com/watch?v=wVHYs1i5VrM
+    - opponent: olimar
+      title: Angbad vs Boss
+      url: https://www.youtube.com/watch?v=GR_p9p-qoBg
+    - opponent: dk
+      title: S2H vs Boss
+      url: https://www.youtube.com/watch?v=yAxh9UEIypY
+    - opponent: robin
+      title: Dath vs Nick Riddle
+      url: https://www.youtube.com/watch?v=z9CfYBeXmAc
+Bowserjr:
+  color: f1823b
+  name: Bowser Jr.
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: The Future King
+      url: https://www.youtube.com/watch?v=lo2RWVHKJzo
+    Tournaments:
+    - opponent: diddy
+      title: ADHD vs Tweek
+      url: https://www.youtube.com/watch?v=cIIL3WLtCuY
+    - opponent: sonic
+      title: Mr. E vs Tweek
+      url: https://www.youtube.com/watch?v=2WQSEDzwZcs
+    - opponent: marth
+      title: 'Mr. E vs Tweek #2'
+      url: https://www.youtube.com/watch?v=47Rofi7oMEk
+    - opponent: diddy
+      title: Keitaro vs Tweek
+      url: https://www.youtube.com/watch?v=VN3po5HuMRk
+    - opponent: roy
+      title: New Main vs Yaegerbomb
+      url: https://www.youtube.com/watch?v=J4VrYt_I58I
+    - opponent: zss
+      title: Choco vs Tweek
+      url: https://youtu.be/eTdD3L28Cxw?t=17m48s
+Captainfalcon:
+  color: d6d32a
+  name: Captain Falcon
+  videos:
+    Guides:
+    - opponent: ''
+      title: Captain Falcon Shows You His Moves
+      url: https://www.youtube.com/watch?v=QyiO3pw9WXc
+    Montages:
+    - opponent: ''
+      title: Speed and Power 3
+      url: https://www.youtube.com/watch?v=kZFEcqo80h8
+    - opponent: ''
+      title: Disrespect Part 2
+      url: https://www.youtube.com/watch?v=WMkphnxCg6s
+    - opponent: ''
+      title: Captain Falcon Montage - ZeRo
+      url: https://www.youtube.com/watch?v=TBqV7NBohkw
+    Tournaments:
+    - opponent: olimar
+      title: Dabuz vs Fatality
+      url: https://www.youtube.com/watch?v=7IE-KgMNsTw
+    - opponent: fox
+      title: Snow vs Fatality
+      url: https://www.youtube.com/watch?v=74vbhr2rtVI
+    - opponent: ness
+      title: FOW vs TearBear
+      url: https://www.youtube.com/watch?v=6GGuG-h-3Ac
+    - opponent: diddy
+      title: Angel Cortes vs Fatality
+      url: https://www.youtube.com/watch?v=RolpNTbsxeU
+    - opponent: sheik
+      title: Edge vs Saiya
+      url: https://www.youtube.com/watch?v=VjzlTjw1o6w
+    - opponent: mario
+      title: Zenyou vs TearBear
+      url: https://www.youtube.com/watch?v=Y_KJ0fOogos
+    - opponent: darkpit
+      title: Nairo vs Max Ketchum
+      url: https://www.youtube.com/watch?v=eD6wSiPUiZw
+Charizard:
+  color: d36c33
+  name: Charizard
+  videos:
+    Guides:
+    - opponent: ''
+      title: Charizard Competitive Tutorial
+      url: https://www.youtube.com/watch?v=V4ooAofcrWo
+    - opponent: ''
+      title: 'Charizard''s Sliding Rock Smash! '
+      url: https://www.youtube.com/watch?v=zS6BRi8t8Ec
+    Montages:
+    - opponent: ''
+      title: Charizard Montage by Bloodcross
+      url: https://www.youtube.com/watch?v=H8tGs2AEx1Q
+    - opponent: ''
+      title: 'Charizard Montage Video #2 by Bloodcross'
+      url: https://www.youtube.com/watch?v=pq-dByAWDlE
+    - opponent: ''
+      title: 'Low-Tier Expo: Charizard'
+      url: https://www.youtube.com/watch?v=O9MC1puajwA
+    - opponent: ''
+      title: Why I love Charizard
+      url: https://www.youtube.com/watch?v=qRnq1eFt2NY
+    Tournaments:
+    - opponent: kirby
+      title: Kickit 5 vs Koopa
+      url: https://www.youtube.com/watch?v=WKYkygBKjeU
+    - opponent: diddy
+      title: Logic vs vaBengal
+      url: https://www.youtube.com/watch?v=sa_NuvvA5V8
+Darkpit:
+  color: 191919
+  name: Dark Pit
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: pikachu
+      title: Esam vs Nairo
+      url: https://youtu.be/rqR8nfFKNnQ?t=2m51s
+    - opponent: diddy
+      title: Jtails vs Nairo
+      url: https://www.youtube.com/watch?v=iplcuHz-kvU
+    - opponent: diddy
+      title: MVD vs Nairo
+      url: https://youtu.be/yqZTMN5e8Yo?t=12m33s
+Diddy:
+  color: e82e2f
+  name: Diddy Kong
+  videos:
+    Guides:
+    - opponent: ''
+      title: Match Breakdown - Dr Mario vs Diddy Kong
+      url: https://www.youtube.com/watch?v=bPwplk90u2U
+    - opponent: ''
+      title: Diddy Kong Competitive Tutorial
+      url: https://www.youtube.com/watch?v=FytxBGjH17I
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sheik
+      title: Mr. R vs ZeRo
+      url: https://www.youtube.com/watch?v=JrxZaPGlMh4
+    - opponent: sheik
+      title: 'Mr. R vs MVD '
+      url: https://www.youtube.com/watch?v=WoLywx2Ccfs
+    - opponent: diddy
+      title: Angel Cortes vs MVD
+      url: https://www.youtube.com/watch?v=p5EomEG_vpc
+    - opponent: olimar
+      title: Dabuz vs Jtails
+      url: https://www.youtube.com/watch?v=ZxzU1sPmn54
+    - opponent: zss
+      title: Nairo vs MVD
+      url: https://www.youtube.com/watch?v=yqZTMN5e8Yo
+    - opponent: fox
+      title: Larry vs ZeRo
+      url: https://www.youtube.com/watch?v=up81CSxPwIc
+    - opponent: dk
+      title: Will vs Angel Cortes
+      url: https://www.youtube.com/watch?v=eILeerci98E
+    - opponent: ness
+      title: Shaky vs MVD
+      url: https://www.youtube.com/watch?v=kPNMUiyFZGc
+Dk:
+  color: 8d462a
+  name: Donkey Kong
+  videos:
+    Guides:
+    - opponent: ''
+      title: Variations of DK's Cargo Up Throw Combo
+      url: https://www.youtube.com/watch?v=s8cRrbpxRkM
+    Montages:
+    - opponent: ''
+      title: The Don
+      url: https://www.youtube.com/watch?v=8Ka_ro1qL4M
+    - opponent: ''
+      title: Bigger, Faster, Stronger
+      url: https://www.youtube.com/watch?v=6MOf-Yd17yI
+    Tournaments:
+    - opponent: diddy
+      title: MVD vs M2K
+      url: https://www.youtube.com/watch?v=R0bpagKaDqE
+Drmario:
+  color: 82848f
+  name: Dr. Mario
+  videos:
+    Guides:
+    - opponent: ''
+      title: Random Dr. Mario Tips
+      url: https://www.youtube.com/watch?v=76NMEtKAXhw
+    Montages:
+    - opponent: ''
+      title: The Doc Is In
+      url: https://www.youtube.com/watch?v=3e7mX3s2qhI
+    Tournaments:
+    - opponent: sheik
+      title: Snow vs Boss
+      url: https://www.youtube.com/watch?v=bN9DidBtzzE
+    - opponent: lilmac
+      title: Nioret vs Rampage!
+      url: https://www.youtube.com/watch?v=87J6gVaxCAM
+Duckhunt:
+  color: c16511
+  name: Duck Hunt
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: villager
+      title: Ranai vs Brood
+      url: https://www.youtube.com/watch?v=grDPBbiArc8
+    - opponent: sonic
+      title: Octo vs Brood
+      url: https://www.youtube.com/watch?v=GDGjyTE4MKc
+    - opponent: sheik
+      title: Nyanko vs Brood
+      url: https://www.youtube.com/watch?v=sFQfGFnR5uE
+    - opponent: rob
+      title: Cree vs DunnoBro
+      url: https://www.youtube.com/watch?v=x3wIji0ZJA0
+    - opponent: yoshi
+      title: TC1 vs DunnoBro
+      url: https://www.youtube.com/watch?v=p7MFKt1v-44
+Falco:
+  color: 6466f1
+  name: Falco
+  videos:
+    Guides:
+    - opponent: ''
+      title: Art of Falco
+      url: https://www.youtube.com/watch?v=G6X759rIxBU
+    Montages:
+    - opponent: ''
+      title: Fly
+      url: https://www.youtube.com/watch?v=IZv66o00d1w
+    - opponent: ''
+      title: Archer's Falco
+      url: https://www.youtube.com/watch?v=1PT7fH3yD7M
+    - opponent: ''
+      title: Ace Space Pilot
+      url: https://www.youtube.com/watch?v=HnhXlUnxgXg
+    - opponent: ''
+      title: Skipping Beats
+      url: https://www.youtube.com/watch?v=hSH9W-qF0jk
+    Tournaments:
+    - opponent: ryu
+      title: Mr. R vs LarryLurr
+      url: https://youtu.be/nCG8YqfzsoM?t=5m15s
+    - opponent: kingdedede
+      title: Jdawg vs Keitaro
+      url: https://www.youtube.com/watch?v=_m2kXufBBgQ
+Fox:
+  color: c49253
+  name: Fox
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sheik
+      title: ZeRo vs LarryLurr
+      url: https://www.youtube.com/watch?v=up81CSxPwIc
+    - opponent: captainfalcon
+      title: Tearbear vs LarryLurr
+      url: https://www.youtube.com/watch?v=vSEqXxMfazk
+    - opponent: sheik
+      title: Mr. R vs LarryLurr
+      url: https://www.youtube.com/watch?v=57866S8zcek
+    - opponent: sheik
+      title: Mr. ConCon vs LarryLurr
+      url: https://www.youtube.com/watch?v=c1meytneJ30
+    - opponent: sheik
+      title: Brult vs LarryLurr
+      url: https://youtu.be/BsMB2Ld1Fbo?t=3m23s
+    - opponent: pikachu
+      title: ESAM vs LarryLurr
+      url: https://www.youtube.com/watch?v=Hxx1Uy3c_C8
+    - opponent: ness
+      title: Shaky vs MegaFox
+      url: https://www.youtube.com/watch?v=bL9jbvixDtE
+    - opponent: sheik
+      title: Denti vs MegaFox
+      url: https://www.youtube.com/watch?v=zOCOWOf3VCg
+    - opponent: zss
+      title: Nick Riddle vs LarryLurr
+      url: https://www.youtube.com/watch?v=9wzvYFUSOlw
+Ganon:
+  color: 605155
+  name: Ganondorf
+  videos:
+    Guides:
+    - opponent: ''
+      title: Ganondorf's True Combos
+      url: https://www.youtube.com/watch?v=0QPrOGeveEo
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: ganon
+      title: Gungnir vs Pon
+      url: https://www.youtube.com/watch?v=tyuINAbhkg4
+    - opponent: diddy
+      title: Jtails vs Vex
+      url: https://www.youtube.com/watch?v=txrU29W1dV8
+Greninja:
+  color: 252a5d
+  name: Greninja
+  videos:
+    Guides:
+    - opponent: ''
+      title: Greninja Combo Video Tutorial
+      url: https://www.youtube.com/watch?v=Z78INd80SNo
+    - opponent: ''
+      title: No Mercy
+      url: https://www.youtube.com/watch?v=2wBQ1zYQrzU
+    Montages:
+    - opponent: ''
+      title: Way of the Frog
+      url: https://www.youtube.com/watch?v=u-EyEB_zXeE
+    - opponent: ''
+      title: Greninja Combo Video
+      url: https://www.youtube.com/watch?v=ZHBBIATb5OI
+    Tournaments:
+    - opponent: falco
+      title: Cyro vs FullMoon
+      url: https://www.youtube.com/watch?v=ulZuC1i4-bc
+    - opponent: mario
+      title: Ally vs aMSa
+      url: https://www.youtube.com/watch?v=5-RRq5yMpTc
+    - opponent: luigi
+      title: 'KVO vs aMSa '
+      url: https://www.youtube.com/watch?v=JhUnn_9KDuA
+    - opponent: meta
+      title: tk3 vs aMSa
+      url: https://www.youtube.com/watch?v=GznfHAXzz1Y
+    - opponent: greninja
+      title: Lea vs aMSa
+      url: https://www.youtube.com/watch?v=mNEbmhWFexQ
+    - opponent: duckhunt
+      title: MVD vs aMSa
+      url: https://www.youtube.com/watch?v=IAoTy000XxU
+Ike:
+  color: a38b70
+  name: Ike
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: diddy
+      title: JJRockets vs Ryuga
+      url: https://www.youtube.com/watch?v=oz9eYqP5J8M
+    - opponent: mario
+      title: Zenyou vs SM
+      url: https://www.youtube.com/watch?v=roI6BwGYLMw
+    - opponent: rosalina
+      title: Aphro vs SM
+      url: https://www.youtube.com/watch?v=AT8x6yvxbSQ
+    - opponent: sheik
+      title: K9 vs SM
+      url: https://www.youtube.com/watch?v=5AxVKvJd4hw
+    - opponent: luigi
+      title: 'LOE1 vs Ryuga '
+      url: https://www.youtube.com/watch?v=aRa8XHl4TP4
+    - opponent: roy
+      title: Static Manny vs Ryo
+      url: https://www.youtube.com/watch?v=s3VkD5X4ejY
+Jigglypuff:
+  color: fcb6cc
+  name: Jigglypuff
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    - opponent: ''
+      title: Don't Sleep on Me
+      url: http://www.youtube.com/watch?v=Q2uezPFdKxc
+    Tournaments:
+    - opponent: sheik
+      title: Tohfoo vs BrianYDG
+      url: https://www.youtube.com/watch?v=ajX_8hmtOCc
+    - opponent: rob
+      title: Tantalus vs Serynder
+      url: https://www.youtube.com/watch?v=61aY7x6-4-I
+    - opponent: ike
+      title: Baggy vs Serynder
+      url: https://www.youtube.com/watch?v=bl9y7vRmxio
+    - opponent: sonic
+      title: Seagull vs Serynder
+      url: https://www.youtube.com/watch?v=HAwyQqxryLI
+    - opponent: luigi
+      title: Poyo vs Serynder
+      url: https://www.youtube.com/watch?v=IuIYuuJn-Zg
+    - opponent: mrgameandwatch
+      title: GimR vs Serynder
+      url: https://www.youtube.com/watch?v=Z5L_VAIkmpM
+Kingdedede:
+  color: f8a324
+  name: King Dedede
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: DeDeDesgusting
+      url: https://www.youtube.com/watch?v=fu4syfeX-Bs
+    - opponent: ''
+      title: DeDeDeath
+      url: https://www.youtube.com/watch?v=-rxS1dSZe20
+    Tournaments:
+    - opponent: pikachu
+      title: Captain L vs Big D
+      url: https://www.youtube.com/watch?v=t7URWlx7sDc
+    - opponent: pikachu
+      title: 'Captain L vs Big D #2'
+      url: https://www.youtube.com/watch?v=5sUFHKmZKtg
+    - opponent: sonic
+      title: Menma vs Maccha
+      url: https://www.youtube.com/watch?v=VY0dFMigwKc
+    - opponent: fox
+      title: Badguy vs Shiken
+      url: https://www.youtube.com/watch?v=IIDQVmVo-Us
+Kirby:
+  color: ef86a2
+  name: Kirby
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sheik
+      title: LarryLurr vs Markus
+      url: https://www.youtube.com/watch?v=lR0vNRMOlLM
+    - opponent: villager
+      title: CaptainAwesum vs MikeKirby
+      url: https://www.youtube.com/watch?v=6QQI1WIV4Bc
+    - opponent: ness
+      title: Shaky vs Triple R
+      url: https://www.youtube.com/watch?v=btoZ_2uvHcw
+Lilmac:
+  color: 69b968
+  name: Little Mac
+  videos:
+    Guides:
+    - opponent: ''
+      title: Little Mac Competitive Tutorial
+      url: https://www.youtube.com/watch?v=zpc3j8qrgBA
+    - opponent: ''
+      title: Advanced Little Mac Tech
+      url: https://www.youtube.com/watch?v=M7AKG9KMtj4
+    Montages:
+    - opponent: ''
+      title: The Sandman Cometh
+      url: https://www.youtube.com/watch?v=uTZWa-toKaI
+    - opponent: ''
+      title: A Real Man
+      url: https://www.youtube.com/watch?v=tKpyCvx2ZxQ
+    - opponent: ''
+      title: A Real Man 2
+      url: https://www.youtube.com/watch?v=d2m6N9wxTKI
+    Tournaments:
+    - opponent: diddy
+      title: ZeRo vs Apachad
+      url: https://www.youtube.com/watch?v=AvlA1pCNBzw
+    - opponent: mario
+      title: Ignis vs Earl
+      url: https://www.youtube.com/watch?v=5U_xsGbxQ50
+    - opponent: ike
+      title: Ryo vs Sol
+      url: https://www.youtube.com/watch?v=IVxGoovkIZc
+Link:
+  color: 619762
+  name: Link
+  videos:
+    Guides:
+    - opponent: ''
+      title: Art of Link 3
+      url: https://www.youtube.com/watch?v=EPsr5bwCmaQ
+    Montages:
+    - opponent: ''
+      title: Gold-Garbed Glory
+      url: https://www.youtube.com/watch?v=wIwV6tJQVvw
+    Tournaments:
+    - opponent: captainfalcon
+      title: Trey vs Hyrule Hero
+      url: https://www.youtube.com/watch?v=6Znfl989FXI
+    - opponent: mario
+      title: BrimeZ vs TMIM
+      url: https://www.youtube.com/watch?v=crzco84189Y
+Lucario:
+  color: 3a78c7
+  name: Lucario
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: palutena
+      title: M2K vs Steam
+      url: https://www.youtube.com/watch?v=rYMb8_kevn0
+    - opponent: mario
+      title: Zenyou vs Kamicario
+      url: https://www.youtube.com/watch?v=vqr1XPtM_Zw
+    - opponent: rosalina
+      title: iiGGY vs Kamicario
+      url: https://www.youtube.com/watch?v=BLzy_4OPsUM
+    - opponent: diddy
+      title: Jtails vs Junebug
+      url: https://www.youtube.com/watch?v=LnCdqi1mb5o
+    - opponent: captainfalcon
+      title: Saiya vs Gomamugitya
+      url: https://www.youtube.com/watch?v=IS8vU9TJVqc
+    - opponent: captainfalcon
+      title: Trifroze vs Loota
+      url: https://www.youtube.com/watch?v=VtFVII_u-9o
+Lucas:
+  color: f0ce66
+  name: Lucas
+  videos:
+    Guides:
+    - opponent: ''
+      title: Lucas Tutorial by LoF NAKAT
+      url: https://www.youtube.com/watch?v=69CPDBZnS74
+    Montages:
+    - opponent: ''
+      title: PSI Offense Up
+      url: https://www.youtube.com/watch?v=NjXBM-AyHfI
+    Tournaments:
+    - opponent: mario
+      title: Ally vs Nakat
+      url: https://youtu.be/lQAWChMF4Es?t=9m17s
+Lucina:
+  color: 4c5e79
+  name: Lucina
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: 'Low-Tier Expo: Lucina'
+      url: https://www.youtube.com/watch?v=rTS-FXdq27U
+    Tournaments:
+    - opponent: roy
+      title: StaticManny vs Ryo
+      url: https://www.youtube.com/watch?v=HLzK_tivw9Y
+    - opponent: pikachu
+      title: Reslived vs Neo
+      url: https://www.youtube.com/watch?v=DpIG06KSi2I
+    - opponent: sonic
+      title: D.Disciple vs c-lusion
+      url: https://www.youtube.com/watch?v=5wfDzrO-qvo
+Luigi:
+  color: 3e672c
+  name: Luigi
+  videos:
+    Guides:
+    - opponent: ''
+      title: Luigi D-Throw Combos
+      url: https://www.youtube.com/watch?v=zEhdgGu4wLc
+    - opponent: ''
+      title: Luigi Competitive Tutorial
+      url: https://www.youtube.com/watch?v=2mRjUXht1bg
+    - opponent: ''
+      title: 'Match Breakdown: Luigi vs Sheik'
+      url: https://www.youtube.com/watch?v=2tUbU9A8Km4
+    Montages:
+    - opponent: ''
+      title: OmegaKay Luigi Highlights
+      url: https://www.youtube.com/watch?v=LKKBP0BNlCs
+    Tournaments:
+    - opponent: diddy
+      title: ZeRo vs Mr.ConCon
+      url: https://www.youtube.com/watch?v=mz06TmwFHAw
+    - opponent: ness
+      title: FOW vs Mr.ConCon
+      url: https://www.youtube.com/watch?v=JUaChKwQyUk
+    - opponent: ness
+      title: 'FOW vs Mr.Concon #2'
+      url: https://www.youtube.com/watch?v=fjbl5bpu9xo
+    - opponent: mario
+      title: Zenyou vs Mr.ConCon
+      url: https://www.youtube.com/watch?v=pmQqe7AfTwY
+    - opponent: pikachu
+      title: Esam vs LarryLurr
+      url: https://youtu.be/EdVb_G0Lae4?t=2m38s
+    - opponent: zss
+      title: NickRiddle vs LarryLurr
+      url: https://youtu.be/9wzvYFUSOlw?t=2m30s
+    - opponent: peach
+      title: lloD vs Boss
+      url: https://www.youtube.com/watch?v=N7KY5NT9PtM
+    - opponent: sonic
+      title: Seagull vs Boss
+      url: https://www.youtube.com/watch?v=gLTmbeQaZYE
+Mario:
+  color: e13135
+  name: Mario
+  videos:
+    Guides:
+    - opponent: ''
+      title: Mario Strategy Guide
+      url: https://www.youtube.com/watch?v=u5MAO6Eqjms
+    - opponent: ''
+      title: Mario Character Guide
+      url: https://www.youtube.com/watch?v=gkbzRjudhWg
+    Montages:
+    - opponent: ''
+      title: Mario Mixclip
+      url: https://www.youtube.com/watch?v=OEFOx-da26o
+    - opponent: ''
+      title: Fire in the Hole
+      url: https://www.youtube.com/watch?v=Ed07mhFTOZE
+    Tournaments:
+    - opponent: pikachu
+      title: Esam vs Ally
+      url: https://www.youtube.com/watch?v=XpCnbNUbYds
+    - opponent: mario
+      title: Zenyou vs Ally
+      url: https://www.youtube.com/watch?v=vD65468tb0I
+    - opponent: sheik
+      title: ZeRo vs Zenyou
+      url: https://www.youtube.com/watch?v=FtVLtz50WzE
+    - opponent: sheik
+      title: 'ZeRo vs Ally #2'
+      url: https://www.youtube.com/watch?v=qSlYeZb4C3I
+    - opponent: fox
+      title: LarryLurr vs Zenyou
+      url: https://www.youtube.com/watch?v=-CcXWS2TGIo
+    - opponent: fox
+      title: Nakat vs Ally
+      url: https://www.youtube.com/watch?v=ftRhtL8cA6Q
+    - opponent: zss
+      title: Dakpo vs Ally
+      url: https://www.youtube.com/watch?v=WjYvE83NlbU
+    - opponent: captainfalcon
+      title: Grim Turtle vs Ally
+      url: https://www.youtube.com/watch?v=UMreRI2iq1M
+    - opponent: diddy
+      title: Zinoto vs Ally
+      url: https://www.youtube.com/watch?v=jr6GAsmpnZ0
+    - opponent: sheik
+      title: K9 vs Zenyou
+      url: https://www.youtube.com/watch?v=qjLY5JTsXNA
+    - opponent: darkpit
+      title: Silent vs TMIM
+      url: https://www.youtube.com/watch?v=Ack8iGo1F6A
+    - opponent: ganon
+      title: Eikelmann vs Solar Skurge
+      url: https://www.youtube.com/watch?v=YTwdOEcgWcA
+Marth:
+  color: 283963
+  name: Marth
+  videos:
+    Guides:
+    - opponent: ''
+      title: Escape of Marth
+      url: https://www.youtube.com/watch?v=p79gqhvWvZ8
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sheik
+      title: K9 vs Nicko
+      url: https://youtu.be/2eK3KHIIR7c?t=1m16s
+    - opponent: mario
+      title: Zenyou vs Nicko
+      url: https://www.youtube.com/watch?v=PYvcPTHeDQM
+    - opponent: yoshi
+      title: Mr.E vs Raptor
+      url: https://www.youtube.com/watch?v=xPuOwt2H3cY
+    - opponent: lucina
+      title: Nairo vs False
+      url: https://www.youtube.com/watch?v=9yugOsgEviY
+Megaman:
+  color: 3255a8
+  name: Mega Man
+  videos:
+    Guides:
+    - opponent: ''
+      title: Metal Blade Tricks/Setups
+      url: https://www.youtube.com/watch?v=0A36pOASqK8
+    Montages:
+    - opponent: ''
+      title: Return of the Beat Beast
+      url: https://www.youtube.com/watch?v=bn2qydw6e3s
+    - opponent: ''
+      title: Feel the Beat
+      url: https://www.youtube.com/watch?v=Vpn2-NQdPeA
+    Tournaments:
+    - opponent: diddy
+      title: LoBo vs Zaranko
+      url: https://www.youtube.com/watch?v=3TnJFI2KXzA
+    - opponent: pit
+      title: Shitashi vs Jezmo
+      url: https://www.youtube.com/watch?v=mCpgl0oQMhk
+    - opponent: diddy
+      title: Nietono vs Daiki
+      url: https://www.youtube.com/watch?v=PQGHRQObsDs
+    - opponent: diddy
+      title: JJRockets vs Scatt
+      url: https://www.youtube.com/watch?v=YUCJtb_HDcs
+    - opponent: sheik
+      title: Wizzrobe vs Scatt
+      url: https://www.youtube.com/watch?v=U7NIUWE05IY
+    - opponent: rosalina
+      title: M2K vs Scatt
+      url: https://www.youtube.com/watch?v=ytGGUa58RhQ
+Meta:
+  color: 2d3d7a
+  name: Meta Knight
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: Sleepless
+      url: https://www.youtube.com/watch?v=ktGb-jimFC0
+    Tournaments:
+    - opponent: sheik
+      title: Mr. R vs Leo
+      url: https://www.youtube.com/watch?v=h4R0pXrC-dg
+    - opponent: toonlink
+      title: Hyuga vs Leo
+      url: https://www.youtube.com/watch?v=0y4M1-l2boA
+    - opponent: rosalina
+      title: Kirihara vs Salena
+      url: https://www.youtube.com/watch?v=wbHK7sH0T5Q
+    - opponent: fox
+      title: Yui vs Salena
+      url: https://www.youtube.com/watch?v=vxFwRepZZVA
+    - opponent: villager
+      title: SS vs S2H
+      url: https://www.youtube.com/watch?v=0VSna7c1dOQ
+    - opponent: olimar
+      title: Rich Brown vs S2H
+      url: https://www.youtube.com/watch?v=PX3hinHano8
+    - opponent: sheik
+      title: Zex vs Ito
+      url: https://www.youtube.com/watch?v=kEryE0-xgHc
+    - opponent: captainfalcon
+      title: ZeRo vs Ito
+      url: https://www.youtube.com/watch?v=KXSp87ZNxDI
+    - opponent: captainfalcon
+      title: Pichi vs Salena
+      url: https://www.youtube.com/watch?v=6k-fr6Itrvs
+    - opponent: mario
+      title: FILIP vs Salena
+      url: https://www.youtube.com/watch?v=E5us3R4cGYg
+Mewtwo:
+  color: a29ba4
+  name: Mewtwo
+  videos:
+    Guides:
+    - opponent: ''
+      title: Mewtwo Shadow Ball Buffer Sheild Drop
+      url: https://www.youtube.com/watch?v=21quNAYOKsw
+    - opponent: ''
+      title: The Legend Reawakened
+      url: https://www.youtube.com/watch?v=e8deR1_jp0I
+    - opponent: ''
+      title: Shadow Ball Glide
+      url: https://www.youtube.com/watch?v=KfADZW9dSLI
+    - opponent: ''
+      title: Mewtwo Combos and Tricks!
+      url: https://www.youtube.com/watch?v=diKq-5VgQa0
+    Montages:
+    - opponent: ''
+      title: Mewtwo Montage - ZeRo
+      url: https://www.youtube.com/watch?v=-srCCwlz0cQ
+    - opponent: ''
+      title: Number 150
+      url: https://www.youtube.com/watch?v=I_km4P28AM0
+    - opponent: ''
+      title: Psystrike
+      url: https://www.youtube.com/watch?v=yyOk99uf4e0
+    Tournaments:
+    - opponent: diddy
+      title: Doctor X vs Gibus
+      url: https://www.youtube.com/watch?v=Ixhw1LinBRA
+    - opponent: dk
+      title: "Emery vs. Mew\xB2"
+      url: https://www.youtube.com/watch?v=hJM1_yrKRto
+    - opponent: rob
+      title: "Gyo vs Mew\xB2"
+      url: https://www.youtube.com/watch?v=JWZQMWTmisk
+    - opponent: sheik
+      title: Neighbor vs KVLT
+      url: https://www.youtube.com/watch?v=HLRvARnovKo
+    - opponent: ness
+      title: 1S_Travis vs Gibus
+      url: https://www.youtube.com/watch?v=xIHxAmtXExA
+    - opponent: link
+      title: "Ninjaraff vs Mew\xB2"
+      url: https://www.youtube.com/watch?v=l3HVk4Q7who
+    - opponent: ryu
+      title: "Bwett vs Mew\xB2"
+      url: https://www.youtube.com/watch?v=NfQ-yjtb40w
+    - opponent: pit
+      title: Kappamaki vs Abadango
+      url: https://www.youtube.com/watch?v=s7hc2uQz5eg
+    - opponent: mewtwo
+      title: Salem vs Tweek
+      url: https://www.youtube.com/watch?v=_RdLmNxYJSU
+    - opponent: sheik
+      title: Karna vs Trela
+      url: https://www.youtube.com/watch?v=G0vYiEqur38
+    - opponent: yoshi
+      title: Aiba vs Daiki
+      url: https://youtu.be/5rYvUeG1L8g?t=9m3s
+Mii:
+  color: 191919
+  name: Mii
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sonic
+      title: 6WX vs Dapuffster
+      url: https://www.youtube.com/watch?v=CvEvc8S2xA4
+    - opponent: fox
+      title: Nakat vs Dapuffster
+      url: https://www.youtube.com/watch?v=OyCedGMNVg4
+Mrgameandwatch:
+  color: 191919
+  name: Mr. Game and Watch
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: pit
+      title: GimR vs Nairo
+      url: https://www.youtube.com/watch?v=geZjLeloEOg
+    - opponent: diddy
+      title: Songun vs Shogun
+      url: https://www.youtube.com/watch?v=Ij18R90mYYg
+    - opponent: pikachu
+      title: Esam vs Regi
+      url: https://www.youtube.com/watch?v=w9eO2vLILCQ
+Ness:
+  color: 4f70ae
+  name: Ness
+  videos:
+    Guides:
+    - opponent: ''
+      title: Ness Tutorial by Nakat
+      url: https://www.youtube.com/watch?v=7eSimaCsuTw
+    - opponent: ''
+      title: How to Play Ness
+      url: https://www.youtube.com/watch?v=ZUaHrGf-qbA
+    Montages:
+    - opponent: ''
+      title: Fsann Ness PV
+      url: https://www.youtube.com/watch?v=xXwCCiKQiQQ
+    Tournaments:
+    - opponent: sheik
+      title: Rain vs Fow
+      url: https://www.youtube.com/watch?v=oTR30N_TPMg
+    - opponent: Luigi
+      title: False vs SS
+      url: https://www.youtube.com/watch?v=tKpzxfrf6DE
+    - opponent: diddy
+      title: M2K vs Fow
+      url: https://www.youtube.com/watch?v=dVRP1_7KJzc
+    - opponent: pikachu
+      title: Esam vs Shaky
+      url: https://www.youtube.com/watch?v=II9JB81jxLw
+    - opponent: diddy
+      title: MVD vs Shaky
+      url: https://www.youtube.com/watch?v=LhdChkby-iU
+    - opponent: sonic
+      title: 6WX vs Shaky
+      url: https://www.youtube.com/watch?v=usE_oRSpu_o
+    - opponent: sheik
+      title: K9 vs SS
+      url: https://www.youtube.com/watch?v=fYTeD1AY580
+    - opponent: sheik
+      title: Nyanko vs Fsann
+      url: https://www.youtube.com/watch?v=IFlImLm6mDQ
+    - opponent: diddy
+      title: Zinoto vs Nakat
+      url: https://youtu.be/34i3tfIFMBA?t=14m23s
+Olimar:
+  color: b5a53a
+  name: Olimar
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sheik
+      title: Vinnie vs RichBrown
+      url: https://www.youtube.com/watch?v=RvKcDR6EGbg
+    - opponent: sheik
+      title: Mr.R vs RichBrown
+      url: https://www.youtube.com/watch?v=kttZC0ugQEk
+    - opponent: sheik
+      title: VoiD vs RichBrown
+      url: https://www.youtube.com/watch?v=gS6agaU_M2A
+    - opponent: mario
+      title: Zenyou vs RichBrown
+      url: https://www.youtube.com/watch?v=oLOm1495kCQ
+    - opponent: sheik
+      title: Phuzix vs Myran
+      url: https://www.youtube.com/watch?v=cZiYjBsee8U
+    - opponent: sheik
+      title: K9 vs Angbad
+      url: https://www.youtube.com/watch?v=yBjKIFVEaLg
+    - opponent: olimar
+      title: RichBrown vs Angbad
+      url: https://www.youtube.com/watch?v=peOxnVbZ4NA
+    - opponent: sonic
+      title: TrueBlue vs Myran
+      url: https://www.youtube.com/watch?v=-7tF4q3jtsw
+Pacman:
+  color: ffd522
+  name: Pac-Man
+  videos:
+    Guides:
+    - opponent: ''
+      title: U-Turn Pellet
+      url: https://www.youtube.com/watch?v=cAd_Yul51-o
+    - opponent: ''
+      title: zDrop
+      url: https://www.youtube.com/watch?v=QE2KcKONrCU
+    - opponent: ''
+      title: The Key to Victory
+      url: https://www.youtube.com/watch?v=_vn4-amdC_g
+    Montages:
+    - opponent: ''
+      title: Trick-Man
+      url: https://www.youtube.com/watch?v=ZAeADNmt05U
+    - opponent: ''
+      title: Beatfox Back in Action
+      url: https://www.youtube.com/watch?v=CsiNPmB15VY
+    - opponent: ''
+      title: Pac-Man - Traps
+      url: https://www.youtube.com/watch?v=Br3nKDDzhgA
+    Tournaments:
+    - opponent: pikachu
+      title: Esam vs Abadango
+      url: https://www.youtube.com/watch?v=ope7uAHJ9nY
+    - opponent: diddy
+      title: Angel Cortes vs Abadango
+      url: https://www.youtube.com/watch?v=sBqbT97dvCg
+    - opponent: captainfalcon
+      title: Saiya vs Abadango
+      url: https://www.youtube.com/watch?v=F2WGd8Wp5d8
+    - opponent: sheik
+      title: Nyanko vs Abadango
+      url: https://www.youtube.com/watch?v=csMxdkXEC8M
+    - opponent: peach
+      title: Umeki vs Abadango
+      url: https://www.youtube.com/watch?v=iXPqvEHcPtY
+    - opponent: diddy
+      title: Daiki vs Abadango
+      url: https://www.youtube.com/watch?v=EtXL_CQc8S4
+    - opponent: duckhunt
+      title: Brood vs Abadango
+      url: https://www.youtube.com/watch?v=MWs0uMvTWkw
+    - opponent: sheik
+      title: Shu vs Abadango
+      url: https://www.youtube.com/watch?v=tTP6-EFNixg
+    - opponent: rob
+      title: Mister Eric vs Zage
+      url: https://www.youtube.com/watch?v=RxfuHIgjzjg
+    - opponent: sheik
+      title: ZeRo vs Zage
+      url: https://www.youtube.com/watch?v=vzKyYMjB0NM
+Palutena:
+  color: d3ac62
+  name: Palutena
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: luigi
+      title: RichBrown vs Nicko
+      url: https://www.youtube.com/watch?v=SXs9qWrLxOA
+    - opponent: luigi
+      title: Elegant vs TLTC
+      url: https://www.youtube.com/watch?v=Gmh-cTA9c_w
+    - opponent: mario
+      title: Ally vs AeroLink
+      url: https://www.youtube.com/watch?v=r21HqEZF1fA
+    - opponent: pikachu
+      title: Helldew vs IceNinja
+      url: https://www.youtube.com/watch?v=mHxMgDDE9SA
+    - opponent: olimar
+      title: Im.Hip vs TLTC
+      url: https://www.youtube.com/watch?v=B2s6Zs4Ohyo
+Peach:
+  color: e34b72
+  name: Peach
+  videos:
+    Guides:
+    - opponent: ''
+      title: Peach Combo Video - 1
+      url: https://www.youtube.com/watch?v=bJmTMd1lzjU
+    - opponent: ''
+      title: Peach Combo Video - 2
+      url: https://www.youtube.com/watch?v=BFhfj5RofZ8
+    - opponent: ''
+      title: Peach's Advanced Techniques
+      url: https://www.youtube.com/watch?v=gGxSNOCgRJI
+    Montages:
+    - opponent: ''
+      title: Peach Highlight Combo Video
+      url: https://www.youtube.com/watch?v=4Utebe3fvyg
+    - opponent: ''
+      title: Dark Queen
+      url: https://www.youtube.com/watch?v=RruA-npSIhg
+    - opponent: ''
+      title: Did I Win?
+      url: https://www.youtube.com/watch?v=le6AYJNTuss
+    Tournaments:
+    - opponent: meta
+      title: Maleficent vs Crow
+      url: https://www.youtube.com/watch?v=SoEl2I3Qe6w
+    - opponent: sheik
+      title: Vinnie vs SlayerZ
+      url: https://www.youtube.com/watch?v=auYy0BJANbw
+    - opponent: sheik
+      title: K9 vs SlayerZ
+      url: https://www.youtube.com/watch?v=blmK66xbU2g
+    - opponent: sheik
+      title: 'K9 vs SlayerZ #2'
+      url: https://www.youtube.com/watch?v=zB55pXHclDA
+    - opponent: luigi
+      title: RichBrown vs SlayerZ
+      url: https://www.youtube.com/watch?v=BGzkfzk-x4A
+    - opponent: fox
+      title: LarryLurr vs SlayerZ
+      url: https://www.youtube.com/watch?v=1REhOMO79c0
+    - opponent: luigi
+      title: LarryLurr vs SlayerZ
+      url: https://www.youtube.com/watch?v=rCTQNjYbvJ0
+    - opponent: fox
+      title: Nietono vs Umeki
+      url: https://www.youtube.com/watch?v=rRK4ic1jJH8
+    - opponent: diddy
+      title: M2K vs Umeki
+      url: https://www.youtube.com/watch?v=_pJJRm6t-dA
+    - opponent: villager
+      title: Ranai vs Kie
+      url: https://www.youtube.com/watch?v=vDl01VoVtuI
+    - opponent: zss
+      title: Choco vs Umeki
+      url: https://www.youtube.com/watch?v=XMnMRpsT7_U
+    - opponent: fox
+      title: Shofu vs Salvi
+      url: https://www.youtube.com/watch?v=MIxI5zbTKSA
+    - opponent: rosalina
+      title: Frozen vs Peachyhime
+      url: https://www.youtube.com/watch?v=KGWeiGg3jc4
+Pikachu:
+  color: ffce04
+  name: Pikachu
+  videos:
+    Guides:
+    - opponent: ''
+      title: RAR and Perfect Pivot
+      url: https://www.youtube.com/watch?v=XXM0O5PXbQ4
+    - opponent: ''
+      title: How To Pikachu
+      url: https://www.youtube.com/watch?v=t3VIrFR9pUg
+    Montages:
+    - opponent: ''
+      title: The Thief
+      url: https://www.youtube.com/watch?v=zxWKPGfhjF4
+    Tournaments:
+    - opponent: sheik
+      title: ZeRo vs Esam
+      url: https://www.youtube.com/watch?v=mDU0_UkYqF4
+    - opponent: zss
+      title: Nairo vs Esam
+      url: https://www.youtube.com/watch?v=rqR8nfFKNnQ
+    - opponent: rosalina
+      title: Dabuz vs Esam
+      url: https://www.youtube.com/watch?v=jTVHjF_dEK4
+    - opponent: luigi
+      title: Dakpo vs Esam
+      url: https://www.youtube.com/watch?v=stgaIwBFXM4
+    - opponent: diddy
+      title: MVD vs Esam
+      url: https://www.youtube.com/watch?v=-qQjGDc40Dk
+    - opponent: rob
+      title: 8BitMan vs Esam
+      url: https://www.youtube.com/watch?v=jpH0Nm5mQJ4
+Pit:
+  color: 5b3a23
+  name: Pit
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: diddy
+      title: Rain vs Earth
+      url: https://www.youtube.com/watch?v=JutIdJ_sEQ8
+    - opponent: villager
+      title: Ranai vs Earth
+      url: https://www.youtube.com/watch?v=71s0BzBo7Z0
+    - opponent: luigi
+      title: Mr.ConCon vs KiraFlax
+      url: https://www.youtube.com/watch?v=OvnhWIEhaOM
+Rob:
+  color: 7f7e77
+  name: R.O.B
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: pikachu
+      title: 8BitMan vs Esam
+      url: https://www.youtube.com/watch?v=s68U4Xh4hks
+    - opponent: yoshi
+      title: '8BitMan vs Esam #2'
+      url: https://www.youtube.com/watch?v=M1r3tiRxqsk
+    - opponent: pit
+      title: Earth vs Ocean
+      url: https://www.youtube.com/watch?v=GhmOMTUd0cc
+    - opponent: fox
+      title: Nakat vs BrL_Holy
+      url: https://www.youtube.com/watch?v=mPfwscQOQW0
+    - opponent: sheik
+      title: Vinnie vs BrL_Holy
+      url: https://www.youtube.com/watch?v=PG3tr2hTCuU
+Robin:
+  color: 1c1d21
+  name: Robin
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: diddy
+      title: Angel Cortes vs Nairo
+      url: https://youtu.be/nVN9JJHakA4?t=3m18s
+    - opponent: bowser
+      title: Nick Riddle vs Dath
+      url: https://www.youtube.com/watch?v=z9CfYBeXmAc
+Rosalina:
+  color: 3f9a9c
+  name: Rosalina and Luma
+  videos:
+    Guides:
+    - opponent: ''
+      title: A Rosalina and Luma Guide
+      url: https://www.youtube.com/watch?v=sEWH7sb-hIo
+    - opponent: ''
+      title: Travelers of the Cosmos
+      url: https://www.youtube.com/watch?v=_oH4jwBnx2U
+    Montages:
+    - opponent: ''
+      title: Gimmick Puppet Queen
+      url: https://www.youtube.com/watch?v=2Pk88Cw4P7M
+    - opponent: ''
+      title: Rosalina is Queen
+      url: https://www.youtube.com/watch?v=kXFpxTruuFo
+    Tournaments:
+    - opponent: ness
+      title: Fow vs Dabuz
+      url: https://www.youtube.com/watch?v=mdWKN4ICHuQ
+    - opponent: sheik
+      title: LarryLurr vs Dabuz
+      url: https://www.youtube.com/watch?v=md1J21bgmn4
+    - opponent: robin
+      title: Nairo vs Dabuz
+      url: https://www.youtube.com/watch?v=qRgbfW09QKw
+    - opponent: ness
+      title: Shaky vs Dabuz
+      url: https://www.youtube.com/watch?v=CxXzkr2oX20
+    - opponent: sheik
+      title: Vinnie vs Dabuz
+      url: https://www.youtube.com/watch?v=y2VSuUcxWrE
+    - opponent: sheik
+      title: False vs Dabuz
+      url: https://www.youtube.com/watch?v=pyg2dWc0X1M
+    - opponent: sheik
+      title: Ed vs Xaltis
+      url: https://www.youtube.com/watch?v=gA2GRQraA4s
+    - opponent: pikachu
+      title: Esam vs Xaltis
+      url: https://www.youtube.com/watch?v=UwUDU-IVjn8
+    - opponent: fox
+      title: Nakat vs Falln
+      url: https://www.youtube.com/watch?v=n6hroiNkCZ8
+    - opponent: captainfalcon
+      title: TearBear vs Falln
+      url: https://www.youtube.com/watch?v=R19kCD-RUwA
+    - opponent: falco
+      title: Domino vs GameProdigy
+      url: https://www.youtube.com/watch?v=L3Z63Tj_n2A
+Roy:
+  color: 252051
+  name: Roy
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: Roy Montage - ZeRo
+      url: https://www.youtube.com/watch?v=GiCRCC4zt90
+    Tournaments:
+    - opponent: lucina
+      title: Grey vs Sethlon
+      url: https://www.youtube.com/watch?v=mARhXr0KrPI
+    - opponent: lucina
+      title: Ally vs ZeRo
+      url: https://youtu.be/QBFe2MOxM-0?t=539
+    - opponent: ike
+      title: StaticManny vs Ryo
+      url: https://www.youtube.com/watch?v=s3VkD5X4ejY
+Ryu:
+  color: e2dfd6
+  name: Ryu
+  videos:
+    Guides:
+    - opponent: ''
+      title: Ryu's Potential
+      url: https://www.youtube.com/watch?v=KsCmmUWwpfI
+    - opponent: ''
+      title: Ryu Strategy Guide
+      url: https://www.youtube.com/watch?v=qT4k00v2SF0
+    - opponent: ''
+      title: Is Ryu Top Tier?
+      url: https://www.youtube.com/watch?v=nQFEIHweT8Y
+    Montages:
+    - opponent: ''
+      title: One Fist Short
+      url: https://www.youtube.com/watch?v=vC1dzc31hCU
+    - opponent: ''
+      title: A Virile Fighter
+      url: https://www.youtube.com/watch?v=BXNz9wRzLQs
+    Tournaments:
+    - opponent: sheik
+      title: Karna vs Trela
+      url: https://www.youtube.com/watch?v=yZvsdeEzMR4
+    - opponent: mario
+      title: Zenyou vs Mr. R
+      url: https://www.youtube.com/watch?v=GxKB9UnklFE
+    - opponent: jigglypuff
+      title: Whispy vs Trela
+      url: https://www.youtube.com/watch?v=w5xAJ-cAYvc
+    - opponent: mario
+      title: M2K vs GX2
+      url: https://www.youtube.com/watch?v=qypj4XVVtAQ
+    - opponent: zss
+      title: LarryLurr vs Mr. R
+      url: https://www.youtube.com/watch?v=nCG8YqfzsoM
+Samus:
+  color: c17534
+  name: Samus
+  videos:
+    Guides:
+    - opponent: ''
+      title: Outsmarting Mother (Smashboards)
+      url: http://smashboards.com/guides/outsmarting-mother-brain.343/
+    Montages:
+    - opponent: ''
+      title: Samus Mixclip
+      url: https://www.youtube.com/watch?v=4cShWPlBVNM
+    Tournaments:
+    - opponent: sheik
+      title: K9 vs Jonny Westside
+      url: https://www.youtube.com/watch?v=GCuz5olmKl8
+    - opponent: olimar
+      title: RichBrown vs Jonny Westside
+      url: https://www.youtube.com/watch?v=mfCmPKCxCos
+    - opponent: meta
+      title: S2H vs Jonny Westside
+      url: https://www.youtube.com/watch?v=pSqMyo9senA
+    - opponent: sheik
+      title: Zan vs Jonny Westside
+      url: https://www.youtube.com/watch?v=wR9JjWRc05M
+    - opponent: fox
+      title: CRZ vs Afro Smash
+      url: https://www.youtube.com/watch?v=JLAiNOUQldc
+    - opponent: luigi
+      title: LarryLurr vs Esam
+      url: https://youtu.be/EdVb_G0Lae4?t=6m30s
+Sheik:
+  color: 545d91
+  name: Sheik
+  videos:
+    Guides:
+    - opponent: ''
+      title: Match Breakdown - Luigi vs Sheik
+      url: https://www.youtube.com/watch?v=zDI-bnMM9DQ
+    - opponent: ''
+      title: Instant Needle Cancel
+      url: https://www.youtube.com/watch?v=vnPuibqUIuA
+    Montages:
+    - opponent: ''
+      title: Senbon Symphony
+      url: https://www.youtube.com/watch?v=RTOH6-bjrXU
+    - opponent: ''
+      title: Sleek and Sheik
+      url: https://www.youtube.com/watch?v=bNdFNh6DaBk
+    Tournaments:
+    - opponent: zss
+      title: Nairo vs Mr. R
+      url: https://www.youtube.com/watch?v=9CY4K9SDszk
+    - opponent: zss
+      title: Nairo vs ZeRo
+      url: https://www.youtube.com/watch?v=kux0pDe5jNQ
+    - opponent: zss
+      title: 'Nairo vs ZeRo #2'
+      url: https://www.youtube.com/watch?v=kYe3nXbI67Q
+    - opponent: luigi
+      title: LarryLurr vs Vinnie
+      url: https://www.youtube.com/watch?v=BgoxtMwJcW8
+    - opponent: fox
+      title: LarryLurr vs Mr. R
+      url: https://www.youtube.com/watch?v=e-kZm8r-ApI
+    - opponent: diddy
+      title: Angel Cortes vs False
+      url: https://www.youtube.com/watch?v=lIpJhI_KZdQ
+    - opponent: sheik
+      title: Vinnie vs Mr. R
+      url: https://www.youtube.com/watch?v=ZBsCU3BANRs
+    - opponent: luigi
+      title: Mr.ConCon vs K9
+      url: https://www.youtube.com/watch?v=wyhq-7uU3Sc
+    - opponent: fox
+      title: LarryLurr vs Brult
+      url: https://www.youtube.com/watch?v=GOuN2e6uW2I
+    - opponent: rosalina
+      title: Dabuz vs Vinnie
+      url: https://www.youtube.com/watch?v=533pCORPgRA
+Shulk:
+  color: a32a30
+  name: Shulk
+  videos:
+    Guides:
+    - opponent: ''
+      title: Shulk 101
+      url: https://www.youtube.com/watch?v=N9tfusGfnLo
+    - opponent: ''
+      title: Shulk Commentary
+      url: https://www.youtube.com/watch?v=HmoiJeG7pC0
+    - opponent: ''
+      title: 'Shulk Tech: ASOOS'
+      url: https://www.youtube.com/watch?v=VkF5FoUuE-4
+    - opponent: ''
+      title: 'Shulk Tech: MALLC'
+      url: https://www.youtube.com/watch?v=BjgKgHKChsA
+    Montages:
+    - opponent: ''
+      title: Really Feelin' It !
+      url: https://www.youtube.com/watch?v=iTgVNESsAWU
+    - opponent: ''
+      title: 'Really Feelin'' It #7!'
+      url: https://www.youtube.com/watch?v=zjCOmE5mXRQ
+    - opponent: ''
+      title: Attack
+      url: https://www.youtube.com/watch?v=q3tg62kmeVM
+    Tournaments:
+    - opponent: ness
+      title: Asa vs Trela
+      url: https://youtu.be/pwMw9GnwPnY?t=2m38s
+    - opponent: luigi
+      title: Boss vs Relaxed
+      url: https://www.youtube.com/watch?v=l_s6iUiQwzY
+    - opponent: pikachu
+      title: KPrime vs Trela
+      url: https://www.youtube.com/watch?v=GksYmbzztbs
+    - opponent: lucina
+      title: Avez vs Sodrek
+      url: https://www.youtube.com/watch?v=Tx2sHAKZcWU
+    - opponent: pit
+      title: Earth vs 9B
+      url: https://www.youtube.com/watch?v=ebpNgfi5d4U
+    - opponent: marth
+      title: Astewisk vs ThatNiceMeme
+      url: https://www.youtube.com/watch?v=xwaQAn7Usgw
+Sonic:
+  color: 2653f6
+  name: Sonic
+  videos:
+    Guides:
+    - opponent: ''
+      title: Instant Spin Dash Jump
+      url: https://www.youtube.com/watch?v=JOJ3Ri0zALs
+    - opponent: ''
+      title: Ledgesnapping & You - ft.Sonic
+      url: https://www.youtube.com/watch?v=aQj-yakgh6M
+    Montages:
+    - opponent: ''
+      title: Sonic Combo/Highlight
+      url: https://www.youtube.com/watch?v=P89YtGG--u0
+    - opponent: ''
+      title: Another Sonic Combo/Highlight
+      url: https://www.youtube.com/watch?v=mstcKrCEPkg
+    Tournaments:
+    - opponent: diddy
+      title: MVD vs StaticManny
+      url: https://www.youtube.com/watch?v=e2CrwBHoXVE
+    - opponent: rob
+      title: 8Bitman vs StaticManny
+      url: https://www.youtube.com/watch?v=gioleIcV3O0
+    - opponent: sheik
+      title: Ed vs StaticManny
+      url: https://www.youtube.com/watch?v=wMn3JJ7hMnE
+    - opponent: sheik
+      title: Phuzix vs StaticManny
+      url: https://www.youtube.com/watch?v=VfT-_hrI3gM
+    - opponent: sonic
+      title: True Blue vs StaticManny
+      url: https://www.youtube.com/watch?v=2U-iW7nUV_o
+    - opponent: rosalina
+      title: Xaltis vs TrueBlue
+      url: https://www.youtube.com/watch?v=mG4mgQQVYis
+    - opponent: meta
+      title: Ito vs 6WX
+      url: https://www.youtube.com/watch?v=-GTEfiTCicg
+    - opponent: sheik
+      title: Zex vs 6WX
+      url: https://www.youtube.com/watch?v=QC02btZXmSU
+Techskill:
+  color: 191919
+  name: Tech Skill
+  videos:
+    Amazing: null
+    Guides:
+    - opponent: ''
+      title: How To Tech
+      url: https://www.youtube.com/watch?v=P-ASMMMdiO4
+    - opponent: ''
+      title: Double Sticking
+      url: https://www.youtube.com/watch?v=BHnTF4GQQDA
+    - opponent: ''
+      title: Perfect Pivot
+      url: https://www.youtube.com/watch?v=zJ_ZzAvSFis
+    - opponent: ''
+      title: Foxtrot Cancelling
+      url: https://www.youtube.com/watch?v=Ppw-igC6Uog
+    Here: null
+Toonlink:
+  color: b7cd56
+  name: Toon Link
+  videos:
+    Guides:
+    - opponent: ''
+      title: Toon Link Competitive Tutorial
+      url: https://www.youtube.com/watch?v=HHfeWB6vN7Y
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: olimar
+      title: RichBrown vs Zan
+      url: https://www.youtube.com/watch?v=VXl44X9bYks
+    - opponent: mario
+      title: Zenyou vs Zan
+      url: https://www.youtube.com/watch?v=3NyYAUUlBp8
+    - opponent: sheik
+      title: Mr. R vs Hyuga
+      url: https://www.youtube.com/watch?v=NLLmUjWrzkU
+    - opponent: meta
+      title: Leo vs Hyuga
+      url: https://www.youtube.com/watch?v=0y4M1-l2boA
+    - opponent: duckhunt
+      title: Brood vs Manzoku
+      url: https://www.youtube.com/watch?v=EObG3c1Shss
+    - opponent: sheik
+      title: Rain vs Hayato
+      url: https://www.youtube.com/watch?v=WDj7WmONoaM
+    - opponent: sheik
+      title: Vinnie vs Zan
+      url: https://www.youtube.com/watch?v=qhJGw98nLzg
+Villager:
+  color: d02727
+  name: Villager
+  videos:
+    Guides:
+    - opponent: ''
+      title: Villager Tutorial
+      url: https://www.youtube.com/watch?v=ezHTtRt0G0Q
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: sheik
+      title: Edge vs Ranai
+      url: https://www.youtube.com/watch?v=K05gvCmFuaE
+    - opponent: zss
+      title: Choco vs Ranai
+      url: https://www.youtube.com/watch?v=lC1ZhfLrSeE
+    - opponent: luigi
+      title: Aki vs Ranai
+      url: https://www.youtube.com/watch?v=aTyMX57jcv4
+    - opponent: diddy
+      title: Rain vs Ranai
+      url: https://www.youtube.com/watch?v=_QHSTOjoS2Q
+    - opponent: pacman
+      title: Abadango vs Ranai
+      url: https://www.youtube.com/watch?v=LxxH0aYuhrc
+    - opponent: fox
+      title: Nietono vs Ranai
+      url: https://www.youtube.com/watch?v=y028yalMebs
+    - opponent: zss
+      title: Nairo vs SS
+      url: https://www.youtube.com/watch?v=rhQAkNBqc14
+    - opponent: olimar
+      title: RichBrown vs SS
+      url: https://www.youtube.com/watch?v=GYVVLnS8gpw
+    - opponent: bowserjr
+      title: Tweek vs SS
+      url: https://www.youtube.com/watch?v=9S7vTxJhBqI
+Wario:
+  color: 4b536c
+  name: Wario
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: Wario Highlight Reel
+      url: https://www.youtube.com/watch?v=8P2CCUwPt_I
+    Tournaments:
+    - opponent: rosalina
+      title: Dabuz vs Abadango
+      url: https://www.youtube.com/watch?v=1j7QDPQiWys
+    - opponent: sheik
+      title: Mr. R vs Abadango
+      url: https://www.youtube.com/watch?v=gCuXVJfa_wo
+    - opponent: sheik
+      title: Rain vs Abadango
+      url: https://www.youtube.com/watch?v=niAQB6n7xQw
+    - opponent: sheik
+      title: Vinnie vs Abadango
+      url: https://www.youtube.com/watch?v=YmSPYUBj7qM
+    - opponent: dk
+      title: Genie vs GimR
+      url: https://www.youtube.com/watch?v=O1EdsXK121Y
+    - opponent: pikachu
+      title: Esam vs Reflex
+      url: https://www.youtube.com/watch?v=mEUcyYAUmLM
+    - opponent: megaman
+      title: Kresent vs Reflex
+      url: https://www.youtube.com/watch?v=KWQmB-fL91U
+Wft:
+  color: 494c4e
+  name: Wii Fit Trainer
+  videos:
+    Guides:
+    - opponent: ''
+      title: Wii Fit Trainer Tutorial
+      url: https://www.youtube.com/watch?v=r66aTyqO9rc
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: mario
+      title: Ignis vs Waveguider
+      url: https://www.youtube.com/watch?v=sn4xPt-7q6Q
+    - opponent: diddy
+      title: AngelCortes vs JohnNumbers
+      url: https://www.youtube.com/watch?v=UfyxApp4nr0
+Yoshi:
+  color: 82eb69
+  name: Yoshi
+  videos:
+    Guides:
+    - opponent: ''
+      title: ''
+      url: ''
+    Montages:
+    - opponent: ''
+      title: It's Yoshi Time!
+      url: https://www.youtube.com/watch?v=uLB6dHw6s-8
+    - opponent: ''
+      title: Shell Riot
+      url: https://www.youtube.com/watch?v=lzZQIOxCOHk
+    Tournaments:
+    - opponent: bowserjr
+      title: Jimbo vs BrownYoshi
+      url: https://www.youtube.com/watch?v=5iius3SV2v4
+    - opponent: sheik
+      title: Avalon vs Raptor
+      url: https://www.youtube.com/watch?v=VMfovrs2zLg
+    - opponent: sheik
+      title: Neo vs Raptor
+      url: https://www.youtube.com/watch?v=iCCp_ZEmaNM
+    - opponent: sonic
+      title: 6WX vs Raptor
+      url: https://www.youtube.com/watch?v=C7lzZ5RXZtk
+    - opponent: zss
+      title: NickRiddle vs KDB
+      url: https://www.youtube.com/watch?v=dWvbivWXgDY
+    - opponent: sheik
+      title: Vinnie vs Leepuff
+      url: https://www.youtube.com/watch?v=xXVDDFN-KhU
+    - opponent: luigi
+      title: Nietono vs Aiba
+      url: https://www.youtube.com/watch?v=c5sEnpDeY2c
+    - opponent: yoshi
+      title: Yoshidora vs Aiba
+      url: https://www.youtube.com/watch?v=W0A3AtMmDIE
+    - opponent: olimar
+      title: Logic vs Firefly
+      url: https://www.youtube.com/watch?v=oazUtZPaMZo
+Zelda:
+  color: ab6a9b
+  name: Zelda
+  videos:
+    Guides:
+    - opponent: ''
+      title: Zelda Guide (Webpage)
+      url: http://smash4guides.weebly.com/
+    Montages:
+    - opponent: ''
+      title: Din's Damsel
+      url: https://www.youtube.com/watch?v=k07hF8icuxk
+    - opponent: ''
+      title: Hylia's Legend
+      url: https://www.youtube.com/watch?v=870U3hdB-EQ
+    - opponent: ''
+      title: It's Zelda Time!
+      url: https://www.youtube.com/watch?v=eYzof9CZByI
+    Tournaments:
+    - opponent: sheik
+      title: Nietono vs Nairo
+      url: https://www.youtube.com/watch?v=YeWFQE5FyY8
+    - opponent: pikachu
+      title: Nakat vs Nairo
+      url: https://www.youtube.com/watch?v=12_FRV8G518
+    - opponent: ness
+      title: Fow vs Ven
+      url: https://www.youtube.com/watch?v=TDGBgckUI68
+    - opponent: fox
+      title: Skarfelt vs maXy
+      url: https://www.youtube.com/watch?v=YR2L7bIkjFA
+    - opponent: shulk
+      title: Jarikay vs SBphiloz4
+      url: https://youtu.be/icm6aiYLdQc?t=25s
+    - opponent: rosalina
+      title: Keitaro vs Nairo
+      url: https://www.youtube.com/watch?v=wiUeqvKoi20
+Zss:
+  color: 378cb6
+  name: Zero Suit Samus
+  videos:
+    Guides:
+    - opponent: ''
+      title: Aerial Queen
+      url: https://www.youtube.com/watch?v=vxgwHu6Wx2k&list=PLYgf070LFrXIyju_k_OJ8KLcX3slqtCJb
+    Montages:
+    - opponent: ''
+      title: ''
+      url: ''
+    Tournaments:
+    - opponent: rosalina
+      title: Dabuz vs Nairo
+      url: https://www.youtube.com/watch?v=3Ar_DS18G84
+    - opponent: luigi
+      title: False vs Nairo
+      url: https://www.youtube.com/watch?v=BO0VKL2rDO4
+    - opponent: captainfalcon
+      title: Fatality vs Nairo
+      url: https://www.youtube.com/watch?v=xr9tNugI-SI
+    - opponent: sheik
+      title: Mr. R vs Nairo
+      url: https://www.youtube.com/watch?v=-Jv6RXnzfm8
+    - opponent: fox
+      title: LarryLurr vs Nairo
+      url: https://www.youtube.com/watch?v=mI8-wc6BF6g
+    - opponent: rob
+      title: 8Bitman vs NickRiddle
+      url: https://www.youtube.com/watch?v=d09HpWw_B04
+    - opponent: rosalina
+      title: Xaltis vs NickRiddle
+      url: https://www.youtube.com/watch?v=ojd-if8IT50
+    - opponent: sheik
+      title: MasterRaven vs NickRiddle
+      url: https://www.youtube.com/watch?v=L3bU76YT0hM
+    - opponent: rosalina
+      title: Kirihara vs Choco
+      url: https://www.youtube.com/watch?v=ervGvCIdjMU
+    - opponent: luigi
+      title: Nietono vs Choco
+      url: https://www.youtube.com/watch?v=dwa3PHWUL8A
+    - opponent: ness
+      title: Fsann vs Choco
+      url: https://www.youtube.com/watch?v=u5pOZKc8dlo
+    - opponent: pikachu
+      title: Esam vs Nairo
+      url: https://www.youtube.com/watch?v=fyxgmIlXBdk

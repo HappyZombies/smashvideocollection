@@ -1,0 +1,12 @@
+<!--characters-->
+<footer>
+	<ol>
+		<h2>Characters</h2>
+		<hr>
+			<li>
+			{% for character in site.data.characters %}
+			<a href="{{site.baseurl}}/{{character[0] | downcase}}/"><img src="../sprites/{{character[0] | downcase}}.png" alt="{{character[0]}}"></a>
+			{% endfor %}
+			</li>
+	</ol>
+</footer>

@@ -1,0 +1,17 @@
+---
+layout: default
+character_name: Blog
+permalink: /blog/
+---
+<div class = "middle-wrapper">
+<h1>The Blog</h1>
+<hr>
+<h3>The Blog is suppose to keep in touch with users on new content/updates on the site.</h3>
+
+<ul class = "blog">
+	{% for post in site.posts %}
+	<li><p><a href = "{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></p></li>
+	{% endfor %}
+</ul>
+
+</div>
