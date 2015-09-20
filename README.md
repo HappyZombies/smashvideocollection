@@ -31,7 +31,7 @@ developers on twitter.
 #### [Find Development Site Here](http://happyzombies.github.io/testSite/)
 
 ### Disclaimer
-Any contributers of this site make no assertion to own any images, logos or
+Any contributors of this site make no assertion to own any images, logos or
 videos.
 
 The Super Smash Bros. logo, characters and other related intellectual property
