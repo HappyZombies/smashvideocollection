@@ -30,11 +30,12 @@ def emailreport():
     mail.close()
 
 day_number = 0
-now = time.strftime("%c")
-todays_date = ("%s"  % now )
+
 while True:
     with open("../files/vote.html", "w") as f:
         day_number += 1
+        now = time.strftime("%c")
+        todays_date = ("%s"  % now )
         day = "day"+str(day_number)
         vote_content = ("""---
 layout: default
