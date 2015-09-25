@@ -53,7 +53,7 @@ comments: true
         
         f.write(vote_content)
         f.close()
-        if day == 'day5':
+        if day == 'day31':
             break
     print "Done!"
     print "Waiting....will update page again in 24 hours"
