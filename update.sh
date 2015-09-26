@@ -1,5 +1,6 @@
 #!/bin/bash
 while true; do
+git pull origin gh-pages
 git status
 git add --all
 git status
