@@ -7,10 +7,10 @@
 #
 # File will crash if not all 31 days are present
 # File currently crashes because it only has 3 videos on it.
-# Futher tesing is still required 
+# Futher tesing is still required
 #
 #
-# The idea of this code is for it to run in the background. 
+# The idea of this code is for it to run in the background.
 # Add 30 videos and 30 strawpoll links to vote.yml, and this file will automatically update the site with new page content
 # It will also e-mail us the results of the poll. So we don't have to constantly go to the site...and view the results
 #
@@ -51,7 +51,7 @@ comments: true
         <i>Last update on """+todays_date+"""</i>
     </div>
 """)
-        
+
         f.write(vote_content)
         f.close()
         if day == 'day31':
@@ -60,8 +60,8 @@ comments: true
     print "Waiting....will update page again in 24 hours"
     time.sleep(86400)
     #after 24 hours are over, retrieve results, e-mail it to me.
-    #Set time.sleep for 24 hours = 86400 seconds 
-    #Every 24 hours, python will change data in vote.html, thus automatically changing the data. 
+    #Set time.sleep for 24 hours = 86400 seconds
+    #Every 24 hours, python will change data in vote.html, thus automatically changing the data.
     #We will use batch to automically git push origin gh-pages every 25 hours. Just to be safe 25 hours = 90000s
     print "Updating html page with new content..."
     with open("vote.yml") as vote_links:
@@ -80,10 +80,9 @@ comments: true
             email_results = ("""Hey there! Here are the results for the video poll: This was for the  - """+ day
             +""" video\nThe total votes for `Yes` are: """ + str(totalvotes_yes)
             +"""\nThe total votes for `No` are: """ + str(totalvotes_no))+"""\nVideo link: """ + str(video_link)+"""\nCharacter is: """ + str(vote_character)
-            print "Sending e-mail." 
+            print "Sending e-mail."
             emailreport()
             #Here we will have code that sends an email to me
-    
-   
-print "Waiting for next commands..."
 
+
+print "Waiting for next commands..."

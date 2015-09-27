@@ -3,14 +3,13 @@
 # Current things that can be improved: loop so we can leave adding a new video, and directly go to a new category
 #
 # - This code was created so we could skip the copy and pasting of text. Now we just easily add it ! 
-#
 # You must have Python and the PyYaml extension installed
 #
 import yaml
 new_video = """
     - title: <video_title>
-      url: <video_url>    
-      opponent: <opponent>    
+      url: <video_url>
+      opponent: <opponent>
 """
 with open("characters.yml") as f:
     the_file = yaml.load(f)
@@ -25,7 +24,7 @@ with open("characters.yml") as f:
     video_category = raw_input("""
 What category in videos would would you like to change for """+character+"""
 - Guides
-- Montages 
+- Montages
 - Tournaments
 (type name)
 """)
@@ -33,7 +32,7 @@ What category in videos would would you like to change for """+character+"""
     print "\nAdding new video to '"+video_category+"' category"
     video_title = raw_input("Enter Title for New Video: ")
     video_url = raw_input("Enter URL for New Video: ")
-    video_opponent = raw_input("Enter opponent for Video: ")        
+    video_opponent = raw_input("Enter opponent for Video: ")
     newvideo_data['title'] = video_title
     newvideo_data['url'] = video_url
     newvideo_data['opponent'] = video_opponent
